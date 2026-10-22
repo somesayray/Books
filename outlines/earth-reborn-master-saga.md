@@ -70,12 +70,24 @@ graph TD
 ---
 
 ## Arc 3: The Flying Dutchman Trilogy (Naval Chronicles)
-- **Book 7: *Royal Fortune***: Coastal reclamation; salvage operations across submerged ruins of Atlantic metropolises; piracy and naval combat on scrap iron-clads.
-- **Book 8: *Revenge***: Clashing with oceanic warlords and mutated sea fauna; securing offshore oil rigs and wave-generation platforms.
-- **Book 9: *Jolly Roger***: The voyage to the mysterious European continent across the stormy Atlantic to establish the first trans-oceanic trade network.
+> *Focus*: High Warden Lorin Corliss's transition from landbound adjudicator to naval privateer and fugitive captain across the treacherous coastal waters of Lusor, Dever, and Vicor.
+
+- **Book 7: *Royal Fortune***: Following the fall of the empire and the collapse of the central church keeps, the Order of the Wardens is formally dissolved. Border kingdoms Lusor and Dever press in to claim the power vacuum. Corliss takes to the sea, refitting an iron-plated privateer vessel to stem maritime conflict and finance independent sanctuaries for displaced frontier refugees.
+- **Book 8: *Revenge***: Having made a formidable reputation on the high seas, Corliss becomes public enemy number one, attacked at every port as bounties escalate. Diplomatic negotiations culminate in an alliance where the new King of Vicor will wed the royal daughter of Dever, consolidating an unassailable continental superpower. As covert factions conspire to sabotage the royal union, Corliss is drawn into the heart of the intrigue.
+- **Book 9: *Jolly Roger***: Framed for an imperial assassination and hunted by both Vicor and Dever, Corliss must navigate a web of betrayals on the open ocean, rallying an alliance of free privateers and renegade mages to clear her name and break the despotic maritime blockade.
 
 ---
 
-## Auxiliary Arcs: The Northern Expeditions
-- ***The North***: Marcus’s tactical expedition into the frozen Canadian shield to locate the Global Seed Vault and sub-glacial ARC command bunkers.
-- ***Winter War***: Surviving an eternal blizzard engineered by defective environmental scrubbers, fighting snow-adapted bio-engineered apex predators.
+## Auxiliary Arcs & Historical Prequels
+
+### *The Inquisition* (Interquel Arc)
+- Set one year after the fall of the Black Queen. As Marcus Gavin explores the frontier, the fanatical *Sword of the Faithful* under the scarred Lord Regent Nero makes a bid for absolute theocratic dominion, dispatching inquisitorial witch-hunters across the provinces to root out, interrogate, and purge all remaining Source Mages.
+
+### *The Invasion* (Lord Protector Arc)
+- Marcus Gavin returns to assume the mantle of Lord Protector, reforming the council of free realms and bringing stability to humanity. However, disturbing reports from the eastern coast signal that the ancient entity that the Black Queen feared—"the thrumming from across the waters"—has begun its initial landfall.
+
+### *The North* (The Biologists' Legacy)
+- Chronicles the historical fate of ARC biologists who split from the main colony vaults. Journeying into the frozen northern wastes, they sought to engineer new biospheres and resilient flora, inadvertently laying the groundwork for the flora and fauna that populate Viridi.
+
+### *Winter War* (The Prequel of Uri & Durass)
+- The definitive origins of the Northern Alliance: A century before the Draconis War, a young human warden-soldier, Uri Amital, is dispatched with an expeditionary force into the uncharted northern barrens. When the human contingent clashes with General Erod Durass and the newly awakened Silvan (Viridi) warriors, Uri and Durass forge a lifelong pact of honor amidst an unforgiving polar war.

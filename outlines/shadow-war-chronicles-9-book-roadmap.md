@@ -47,3 +47,21 @@ A hard-hitting military space-opera chronicling humanity’s desperate survival 
 - **Act I: The Coalition Gathers**: Every surviving military ship, armed freighter, mining tug, and pirate vessel from the lawless asteroid station of Tortuga unites under Admiral Vance and Commander Stride.
 - **Act II: Charge on the Rift**: The fleet jumps directly to the Kuiper Gate, engaging in the largest space battle in human history against the Incursion Supreme Vanguard led by Xylar.
 - **Act III: Severing the Void**: Thorne and an infiltration team board the central hive beacon, detonating a zero-point spatial destabilizer that collapses the rift, severing the swarm from their home galaxy and liberating Sol.
+
+---
+
+## 3. The Andromeda Wars (The Celebex Incursion & The Eden Exodus)
+
+Extracted from the author's primary concept archives, *The Andromeda Wars* forms the expansive 11-volume historical framework detailing the initial contact, the fall of Earth, and the subsequent diaspora:
+
+1. **Book 1: *Andromeda Incident***: One century in Earth's future, humanity tests the first faster-than-light drive. When the test malfunctions, the exploratory vessel *Jupiter Six*, commanded by Texas native **Calvin Dodge**, is flung far off course, stumbling upon an advanced, hostile Celebex outpost in the outer rim.
+2. **Book 2: *Enemy of Tera***: Twenty years post-incident. The Celebex launch their initial strike, blinding Earth's early warning listening posts and orbital sensor networks.
+3. **Book 3: *Overlord***: The Celebex breach Earth's atmosphere, securing an uncontested beachhead across South America and advancing northward to extinguish humanity.
+4. **Book 4: *Callisto*** (*A Revenant Novel*): **Elayna Christian**, newly promoted CEO of mega-conglomerate A-Tech, uncovers a clandestine Jovian black-site kidnapping human subjects for illegal bio-cybernetic adaptation experiments.
+5. **Book 5: *The Fall of Earth***: At the catastrophic breaking point, corrupt terrestrial leaders capitulate to save themselves, enslaving civilian populations. Congressman **Darius Spencer** witnesses the surrender of Earth's sovereignty and goes underground.
+6. **Book 6: *The Underground***: Thirty years later, Darius Spencer leads **HUMINT**, the subterranean partisan resistance fighting asymmetric urban warfare against the Celebex occupation forces.
+7. **Book 7: *Escape from Earth***: Earth is ecologically exhausted and dying. The battered remnants of the human resistance coordinate the final exodus of transport arks before the atmosphere collapses completely.
+8. **Book 8: *Eden***: A mere one thousand human survivors cross the galactic void, arriving on the fringe of a distant galaxy to establish the sanctuary colony of **Eden**.
+9. **Book 9: *Bounty***: Generations later, humanity expands to four neighboring star systems. The central government on Eden degenerates into systemic political corruption, giving rise to an anarchic frontier of bounty hunters and syndicates.
+10. **Book 10: *Raider One***: Set twenty years after *Revenant*: A young void smuggler takes over his late father’s enterprise alongside an eccentric shipboard AI, crossing paths with a feline slave enclave and inter-system cartel enforcers.
+11. **Book 11: *Tortuga***: Thirty years post-Revenant: A haunted ex-Earth Force naval captain leads space privateers based in the lawless asteroid haven of Tortuga, embarking on an elusive quest to locate the legendary lost sanctuary world.

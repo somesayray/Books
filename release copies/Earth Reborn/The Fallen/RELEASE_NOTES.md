@@ -9,6 +9,7 @@
 - **Format Deliverables**:
   - `the-fallen-book-1.md` (Pristine master Markdown edition)
   - `the-fallen-book-1.docx` (Production-ready Microsoft Word manuscript formatted in Georgia 11pt, 1.15 line spacing, 1-inch margins, chapter breaks, and styled epigraphs)
+  - `the-fallen-book-1.pdf` (Final publication-grade PDF deliverable)
 
 ---
 

@@ -58,3 +58,28 @@ The crystals resonate with primal bio-energy known as **The Source**:
 | **The Silvan Tree Kingdoms** | Ancient Forest Canopy Cities | Harmony with living nature; defense of ancestral lands | Composite longbows, stealth camouflage, canopy bridges, arboreal ambushes |
 | **The Sword of the Faithful** | Inquisitorial Keeps | Religious purge of all Gifted and Source Mages | Cold-iron silver blades, anti-magic shackles, religious mob mobilization |
 | **The ARC Sleepers** | Subterranean Stasis Pods | Pre-Fall military discipline, scientific rationalism | Uncorrupted human DNA, tactical firearms, historical knowledge |
+
+---
+
+## 5. The Lineages of Viridi (The Barrens)
+
+Human maps mark the wild northern territory as "The Barrens," but its inhabitants know it as **Viridi**. Centuries ago, an ARC scientist-geneticist attuned to the Source utilized First Age gene-editing apparatus to adapt human groups to specific biomes, giving rise to three distinct peoples:
+1. **The Silvan (Elven)**: Slender, agile arboreal inhabitants of the high canopy cities. Characterized by almond-shaped nocturnal eyes twice the size of human corneas and dark green-tinted hair, granting extraordinary low-light vision and stealth. Master marksmen and curators of living runic grafting.
+2. **The Mountain Dwarves**: Stout, rugged miners and master smiths inhabiting the subterranean redoubts of the northern ranges. Experts in runic metallurgy and defensive engineering.
+3. **The Ethereals**: An elusive, contemplative branch who withdrew into the deep crystal caverns, deeply attuned to quantum resonance and temporal echoes.
+
+---
+
+## 6. The Winter War & The Northern Alliance
+
+A century prior to the Draconis War, human settlements viewed Viridi with fear and xenophobia. A young warden-soldier, **Uri Amital**, was deployed on a northern punitive expedition. When the force was ambushed in the snowbound peaks, Uri found himself locked in single combat with **General Erod Durass** of the Silvan guard. 
+
+Rather than slaughter each other in an unforgiving blizzard, the two forged an unbreakable mutual pact of honor. Uri facilitated the secret treaty between the human Wardens and Viridi, while Durass positioned his bowmen as the covert guardian vanguard of the frontier—a relationship that ultimately saved the continent during the Black Queen's invasion.
+
+---
+
+## 7. Post-War Eras & Epilogues
+
+- **The Era of the Inquisition**: Following the defeat of the Black Queen, Lord Regent Veric Nero radicalizes the Church of Aurtus. The *Sword of the Faithful* launches an inquisitorial campaign, rounding up unregistered mages under the guise of restoring moral order.
+- **The Dissolution of the Wardens**: Crushed between the fanaticism of the Church and the militarization of neighboring kingdoms Lusor and Dever, the Order of the Wardens dissolves. 
+- **The Flying Dutchman Era**: High Warden Lorin Corliss refuses the theocratic regime. Taking to the seas as a privateer captain, she wages an asymmetric naval campaign to defend refugee enclaves, while navigating treacherous geopolitical marriage alliances between Vicor and Dever.
