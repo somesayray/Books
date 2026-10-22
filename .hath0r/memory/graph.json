@@ -64,10 +64,30 @@
       "metadata": {}
     },
     {
+      "id": "episode:share-20261022T101252Z",
+      "type": "episode",
+      "label": "Knowledge Share (share-20261022T101252Z)",
+      "content": "Completed Legacy (Sanguine Relics Book 1), synopses of The Black Queen and Fall of the Empire, synced and indexed 425 documents into Hath0r knowledgebase.",
+      "importance": 0.8,
+      "tags": [
+        "knowledge-share",
+        "share-20261022t101252z",
+        "books",
+        "episode",
+        "compounded"
+      ],
+      "valid_from": "2026-10-22T10:12:52.821919+00:00",
+      "valid_to": null,
+      "is_current": true,
+      "created_at": "2026-10-22T10:12:52.821919+00:00",
+      "updated_at": "2026-10-22T10:12:52.821919+00:00",
+      "metadata": {}
+    },
+    {
       "id": "session:sess-20261021-200622-8468e5",
       "type": "session",
       "label": "Micro Session sess-20261021-200622-8468e5",
-      "content": "Micro Session sess-20261021-200622-8468e5 [active] | Focus: Initialized local memory space for Books | Reads: 1, Writes: 2 | Entries: Started session focus: Initialized local memory space for Books; Compounded episode:share-20261021T200622Z: Knowledge Share (share-20261021T200622Z)",
+      "content": "Micro Session sess-20261021-200622-8468e5 [active] | Focus: Initialized local memory space for Books | Reads: 1, Writes: 3 | Entries: Compounded episode:share-20261021T200622Z: Knowledge Share (share-20261021T200622Z); Compounded episode:share-20261022T101252Z: Knowledge Share (share-20261022T101252Z)",
       "importance": 0.75,
       "tags": [
         "session",
@@ -78,15 +98,57 @@
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-21T20:06:22.272607+00:00",
-      "updated_at": "2026-10-21T20:06:22.310308+00:00",
+      "updated_at": "2026-10-22T10:12:53.305329+00:00",
       "metadata": {
         "session_id": "sess-20261021-200622-8468e5",
         "prior_session_id": null,
         "parent_session_id": null,
         "read_count": 1,
-        "write_count": 2,
+        "write_count": 3,
         "status": "active",
-        "byte_size": 2045
+        "byte_size": 2017
+      }
+    },
+    {
+      "id": "insight:knowledge-share",
+      "type": "insight",
+      "label": "Synthesized Insight on knowledge-share",
+      "content": "Consolidated from 2 memory nodes tagged 'knowledge-share'. Recurring themes: share, knowledge, universal, repository. Latest context: Completed Legacy (Sanguine Relics Book 1), synopses of The Black Queen and Fall of the Empire, synced and indexed 425 documents into Hath0r knowledgebase.",
+      "importance": 0.95,
+      "tags": [
+        "knowledge-share",
+        "insight",
+        "reflection",
+        "compounded"
+      ],
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true,
+      "created_at": "2026-10-22T10:12:53.849665+00:00",
+      "updated_at": "2026-10-22T10:12:53.849665+00:00",
+      "metadata": {
+        "constituent_count": 2,
+        "source_tag": "knowledge-share"
+      }
+    },
+    {
+      "id": "insight:books",
+      "type": "insight",
+      "label": "Synthesized Insight on books",
+      "content": "Consolidated from 2 memory nodes tagged 'books'. Recurring themes: share, knowledge, universal, repository. Latest context: Completed Legacy (Sanguine Relics Book 1), synopses of The Black Queen and Fall of the Empire, synced and indexed 425 documents into Hath0r knowledgebase.",
+      "importance": 0.95,
+      "tags": [
+        "books",
+        "insight",
+        "reflection",
+        "compounded"
+      ],
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true,
+      "created_at": "2026-10-22T10:12:53.849665+00:00",
+      "updated_at": "2026-10-22T10:12:53.849665+00:00",
+      "metadata": {
+        "constituent_count": 2,
+        "source_tag": "books"
       }
     }
   ],
@@ -136,11 +198,67 @@
       "weight": 1.0,
       "valid_from": "2026-10-21T20:06:22.313203+00:00",
       "is_current": true
+    },
+    {
+      "source": "episode:share-20261022T101252Z",
+      "target": "concept:tri-graph",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:52.821919+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:share-20261022T101252Z",
+      "target": "rule:cr-memory-compound-001",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:52.821919+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:share-20261022T101252Z",
+      "target": "session:sess-20261021-200622-8468e5",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:53.645369+00:00",
+      "is_current": true
+    },
+    {
+      "source": "insight:knowledge-share",
+      "target": "episode:share-20261021T200622Z",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true
+    },
+    {
+      "source": "insight:knowledge-share",
+      "target": "episode:share-20261022T101252Z",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true
+    },
+    {
+      "source": "insight:books",
+      "target": "episode:share-20261021T200622Z",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true
+    },
+    {
+      "source": "insight:books",
+      "target": "episode:share-20261022T101252Z",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-22T10:12:53.849665+00:00",
+      "is_current": true
     }
   ],
   "schema_version": "1.0.0",
   "graph_id": "canonical-memory-space",
-  "revision": 4,
-  "content_hash": "sha256:0c12b042e700d2b6c2b2039af499d9de51b6db6ef33dc56fa7ec081a1b262d8e",
-  "updated_at": "2026-10-21T20:06:22.313994+00:00"
+  "revision": 8,
+  "content_hash": "sha256:95d45d79690958bff530a7660bffdcb437d03eefc7372eb5f6e79fd166a95b35",
+  "updated_at": "2026-10-22T10:12:53.850381+00:00"
 }
