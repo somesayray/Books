@@ -17,11 +17,11 @@ flowchart LR
 
 ## Detailed Book Breakdown
 
-### Book 1: *Legacy (Lobera)*
-- **Logline**: When an unassuming modern American archivist inherits a 13th-century iron trunk, he unleashes *Lobera*—the legendary consecrated blade of Saint King Ferdinand III—and ignites a shadow war with ancient vampire covens.
-- **Act I: The Inheritance**: Christian Vance receives a mysterious heirloom delivery following the sudden death of an estranged European relative. Opening the iron box, he touches the hilt of an ancient broadsword engraved with Latin verses. His blood awakens the weapon's dormant silver aura.
-- **Act II: The Shadows Gather**: Within hours, hit squads of European vampires and rogue mercenaries assault Christian's home. He is rescued by Father Lorenzo, an operative of the Franciscan Order of San Fernando, who reveals Christian’s true genealogy as the direct descendant of Ferdinand of Castile.
-- **Act III: The Cathedral Showdown**: Christian and Lorenzo retreat to a consecrated cathedral in Seville. Surrounded by an elder vampire coven seeking to melt down the blade that slaughtered their ancestors in the Reconquista, Christian masters the sword’s preternatural resonance and slays the elder vampire lord, securing his legacy.
+### Book 1: *Legacy (Lobera)* — COMPLETED (~38,847 words, 22 Chapters + Epilogue)
+- **Logline**: When an ordinary Maryland park ranger is marked as the last living descendant of King Ferdinand III of Castile, he inherits the celestial-iron blade *Lobera* and is thrust into a secret war between the Franciscan Order and ancient werewolf bloodlines.
+- **Act I: The Awakening (Chapters 1–9)**: Following a brutal animal attack in Great Falls, park ranger Victor Vance is approached by Bishop Talbot, Father Edgar, and Sam of the covert Order of Saint Francis. Brock’s rogue wolf faction attacks Victor’s family home. To ensure the safety and relocation of his wife Jessica and their children, Victor agrees to enter protective exile.
+- **Act II: The Heritage & The Crossing (Chapters 10–16)**: In the Order’s safe house, Victor touches the Jamestown dagger and assimilates ten years of sword training from the memories of Alfonso of Castile. Transported to Scotland, Victor trains under Father Edgar in Dundee, unlocking *Lobera*’s celestial kinetic power and Aramaic command words (*Bakhzataa*, *Malka*, *Shlama*). Meanwhile, Brock and Martin lead a berserker pack to Scotland, while Sowain (Alfonso), Marcus, and Rebecca cross the Atlantic to intercept them.
+- **Act III: The New Covenant (Chapters 17–22 + Epilogue)**: Brock's pack attacks Dundee Manor, grievously wounding Edgar before Alfonso and Rebecca arrive to turn the tide. Alfonso reveals the truth: lycanthropy is an ancient Pleistocene guardian genome, and Captain Mercer’s rogue faction within the Order is preparing to unleash aerosol micro-silver ("Project Argentum") to genocide the peaceful Scottish pack at Glen Clova. In a climactic assault on Saint Jude's Monastery, Victor slays Brock, neutralizes Mercer’s weapon with *Lobera*, and establishes the New Covenant of balance between humanity, the Church, and the Pack. Victor returns to his family in Maine as the eternal Arbiter of the Relics.
 
 ---
 

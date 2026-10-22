@@ -35,12 +35,27 @@ For over seven centuries, the direct royal line of Castile was kept secret, hidd
 
 ## 3. The Supernatural Taxonomy
 
-### 1. The Pack (Lycanthropic Bloodlines)
-- Unlike mythological Hollywood werewolves, the Lycans of this universe are an ancient predatory subspecies with complex hierarchy, pack telepathy, and regenerative vitality.
-- Standard modern ballistics and blade wounds heal within seconds. Only consecrated silver alloys, fire, and the cutting edge of *Lobera* can inflict irreversible cellular damage.
-- Driven by blood-feuds stretching back to the Reconquista, they seek to extinguish the royal line once and for all.
+### 1. The Pack (Lycanthropic Bloodlines & The Pleistocene Genome)
+- **Evolutionary Origin**: Contrary to medieval ecclesiastical demonology, Lycanthropy is not demonic or Satanic. It is an ancient Pleistocene biological adaptation occurring over 40,000 years ago during the Wurm glaciation, allowing selected human clans to hyper-metabolize cells, dense bone structure, and sensory organs into an apex guardian form.
+- **The Ancient Guardians**: For millennia, the Lycan clans protected early human hearths against primeval predators. As human civilization centralized into feudal walled cities, the Church suppressed the truth and branded the guardians as monsters to enforce ecclesiastical dependence.
+- **Regenerative Biology**: Normal modern ballistics heal within moments. Only consecrated silver alloys (which cause catastrophic cellular burns), fire, and the cutting edge of *Lobera* can inflict irreversible cellular damage.
+- **The Rockville Pack & Alfonso (Sowain)**: Guided for over two centuries by Alpha Sowain—revealed as Alfonso of Castile, the 17th-century Lost Hunter of the Order who took the bite in Jamestown to save a dying clan and protect peace between species.
 
-### 2. The Sanguine Lords & Outriders
+### 2. The Sword of Lobera & The Jamestown Dagger
+- **Celestial Iron**: Forged from 60 pounds of meteoric iron recovered from the 1217 Sierra Morena bolide. The steel possesses an extraordinary crystalline matrix that acts as a biological conductor, keyed to the royal hemoglobin sequence of King Ferdinand III.
+- **Command Words (Aramaic)**:
+  - `Bakhzataa` (Sight): Unlocks multi-spectrum bio-thermal vision, allowing the wielder to perceive heat trails and supernatural aura profiles.
+  - `Malka` (Kinetic Force): Discharges concussive waves of kinetic silver energy capable of slicing through granite boulders and deflecting high-velocity ballistic rounds.
+  - `Shlama` (The Binding / Peace): Emits an overwhelming electromagnetic and neural resonance pulse that disarms technology and neutralizes hostile motor nervous systems without bloodshed.
+- **Genetic Memory Transfer**: Weapons tempered in the bloodline store residual synaptic impressions, allowing heirs like Victor Vance to absorb decades of ancestral master swordsmanship within hours.
+
+### 3. The Sanguine Lords & Outriders
 - Aristocratic, immortal blood-drinkers who rule shadow networks of finance, politics, and historical manipulation.
 - Possess superhuman speed, hypnosis, and kinetic reflexes.
 - Employ **Outriders** (elite mortal and half-blooded special forces operatives like Marius) to conduct covert wet-work and perimeter enforcement against rogue Lycans.
+
+---
+
+## 4. The Two Covenants
+- **The First Covenant (1248)**: King Ferdinand III established an armed truce between the Crown of Castile and the ancient European packs, designating the Bearer of Lobera as the neutral Arbiter. Corrupt Inquisitors poisoned Ferdinand's successors and suppressed the treaty.
+- **The New Covenant (Modern Era)**: Established in the ruins of Saint Jude's Monastery by Victor Vance, Bishop Talbot, and Alpha Alfonso (Sowain). The Order permanently bans extermination weapons (such as Project Argentum); the packs enforce pack law against rogue predators; and the Sovereign Bearer of Lobera stands as the eternal independent Arbiter between humanity and the supernatural.
