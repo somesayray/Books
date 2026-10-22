@@ -1,0 +1,60 @@
+# Lore Codex: Earth Reborn Universe
+
+> **Series**: *Earth Reborn*  
+> **Author**: Raymond Bayly  
+> **Canonical Core Trilogy**: *The Fallen* (Book 1), *The Black Queen* (Book 2), *Fall of the Empire / Draconis* (Book 3)  
+> **Document Type**: Lore Bible & Worldbuilding Reference  
+
+---
+
+## 1. Setting Overview & The Great Collapse
+
+The *Earth Reborn* universe depicts humanity across the First and Second Ages following the catastrophic Fall of Man. Once a high-technology civilization, Old Earth collapsed under ecological ruin, orbital warfare, and tectonic fractures. 
+
+Before the final blackout, the planetary authority commissioned the **ARC Project (Automated Reclamation Colony)**—sealing selected soldiers, scientists, and engineers into subterranean cryo-stasis vaults to sleep until planetary vitals stabilized.
+
+---
+
+## 2. The Crystalline Awakening & The Source
+
+Centuries into the deep sleep, the planetary crust did not merely heal—it underwent a radical metaphysical metamorphosis. Deep fissures bled an exotic quantum resonance into the soil and atmosphere, giving rise to towering alien mineral formations: **The Crystals** (Obsidian, Sapphire, and Emerald).
+
+The crystals resonate with primal bio-energy known as **The Source**:
+- **Source Mages / The Gifted**: Humans born near crystal veins who developed the ability to manipulate kinetic force, thermal energy, and bio-matter through mental attunement.
+- **Crystal Resin**: A combustible, volatile compound harvested from blue crystal nodes, capable of being refined into "crystal-fire"—a napalm-like liquid fire utilized in advanced siege weaponry.
+- **The Chimera**: Terrifying bio-alchemical hybrid beasts created by corrupt mages who splice predatory animal DNA with black crystal resonance.
+
+---
+
+## 3. The Core Trilogy Timeline
+
+```text
++-----------------------------+      +-----------------------------+      +-----------------------------+
+|   Book 1: The Fallen        |      |   Book 2: The Black Queen   |      |   Book 3: Fall of Empire    |
+|   - Marcus Gavin Awakens    | ---> |   - Hunt for Marcus's Blood | ---> |   - Total Continental War   |
+|   - Orah & Mountain Outpost |      |   - The Sword of Faithful   |      |   - Siege of Black Citadel  |
+|   - Resin Cannons Introduced|      |   - Wardens' Keep Defended  |      |   - Fate of Earth Reborn    |
++-----------------------------+      +-----------------------------+      +-----------------------------+
+```
+
+### The Second Age of Man (The Feudal Frontier)
+- **The Monarchy & The Monastic Keep**: Feudal realms built around ancient stone ruins and crystal quarry keeps.
+- **The Church of Aurtus**: Built upon the **Four Tenets**:
+  1. **Life**: Preserve the living spark against unnatural perversion.
+  2. **Order**: Maintain societal harmony against chaotic violence.
+  3. **Balance**: Keep equilibrium between crystal harvesting and natural law.
+  4. **Memory**: Honor the lost heritage of the First Age.
+- **The Order of the Wardens**: Sanctioned adjudicators who enforce the law, investigate rogue mages, and resolve cross-border disputes.
+- **The Sword of the Faithful**: A secretive, zealous militant arm of the church founded by Messenger Veric Nero, committed to eradicating all Source Mages and "unnatural" gifted humans.
+
+---
+
+## 4. Key Factions & Empires
+
+| Faction | Origin / Base | Core Philosophy | Signature Warfare Assets |
+| :--- | :--- | :--- | :--- |
+| **The Black Queen's Empire** | Eastern Obsidian Citadel | Total continental conquest; crystal bio-supremacy | Resin fire cannons, Chimera shock-beasts, The Chosen (telekinetic mages) |
+| **The Order of the Wardens** | Wardens' Keep / Castello | Impartial justice, protection of the Four Tenets | Rune-forged steel blades, equestrian skirmishers, non-lethal subdual arts |
+| **The Silvan Tree Kingdoms** | Ancient Forest Canopy Cities | Harmony with living nature; defense of ancestral lands | Composite longbows, stealth camouflage, canopy bridges, arboreal ambushes |
+| **The Sword of the Faithful** | Inquisitorial Keeps | Religious purge of all Gifted and Source Mages | Cold-iron silver blades, anti-magic shackles, religious mob mobilization |
+| **The ARC Sleepers** | Subterranean Stasis Pods | Pre-Fall military discipline, scientific rationalism | Uncorrupted human DNA, tactical firearms, historical knowledge |

@@ -1,0 +1,250 @@
+[Fri Mar 27 16:00:42 UTC 2020][INFO] [Action] EE NewBook
+[Fri Mar 27 16:01:01 UTC 2020][INFO] [Action] E AutoChapterGroupAction - 0
+[Fri Mar 27 16:01:08 UTC 2020][INFO] [Action] E RevertApplyAutoChapterAction - (r,43,43)
+[Fri Mar 27 16:01:25 UTC 2020][INFO] [Action] E RevertApplyAutoChapterAction - (r,582908,582908)
+[Fri Mar 27 16:02:03 UTC 2020][INFO] [Action] E RevertApplyAutoChapterAction - (r,584375,584375)
+[Fri Mar 27 16:02:09 UTC 2020][INFO] [Action] E ItemChanged - -1,1
+[Fri Mar 27 16:02:18 UTC 2020][INFO] [Action] E RemoveSectionBreak - 36,0
+[Fri Mar 27 16:02:20 UTC 2020][INFO] [Action] E AddTextContainer - (c,35,1),1,0,0
+[Fri Mar 27 16:02:22 UTC 2020][INFO] [Action] E InsertTextContent - (c,36,1),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,36,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,37,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,38,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,39,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,40,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,41,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,42,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,43,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,44,2),[SPACE]
+[Fri Mar 27 16:02:23 UTC 2020][INFO] [Action] E InsertTextContent - (c,45,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,46,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,47,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,48,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,49,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,50,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,51,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,52,2),[SPACE]
+[Fri Mar 27 16:02:24 UTC 2020][INFO] [Action] E InsertTextContent - (c,53,2),[SPACE]
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:27 UTC 2020][INFO] [Action] U InsertTextContent
+[Fri Mar 27 16:02:31 UTC 2020][INFO] [Action] E UpdateStyle - (r,36,42),34:320:3,(r,36,42),F
+[Fri Mar 27 16:02:38 UTC 2020][INFO] [Action] E ItemChanged - -1,44
+[Fri Mar 27 16:02:40 UTC 2020][INFO] [Action] E RemoveSectionBreak - 44,0
+[Fri Mar 27 16:02:40 UTC 2020][INFO] [Action] E InsertTextContent - (c,43,1),[\]
+[Fri Mar 27 16:02:42 UTC 2020][INFO] [Action] E DeleteContent - (c,43,2),B
+[Fri Mar 27 16:02:46 UTC 2020][INFO] [Action] E UpdateStyle - (r,43,55),34:320:3,(r,43,55),F
+[Fri Mar 27 16:02:49 UTC 2020][INFO] [Action] E AddTextContainer - (c,42,2),0,0,0
+[Fri Mar 27 16:03:02 UTC 2020][INFO] [Action] E DeleteContent - (r,1153,1159),B
+[Fri Mar 27 16:03:06 UTC 2020][INFO] [Action] E ItemChanged - -1,18658
+[Fri Mar 27 16:03:07 UTC 2020][INFO] [Action] E ItemChanged - -1,18658
+[Fri Mar 27 16:03:09 UTC 2020][INFO] [Action] E DeleteContent - (r,18658,18664),B
+[Fri Mar 27 16:03:09 UTC 2020][INFO] [Action] E ItemChanged - -1,22664
+[Fri Mar 27 16:03:10 UTC 2020][INFO] [Action] E ItemChanged - -1,22664
+[Fri Mar 27 16:03:11 UTC 2020][INFO] [Action] E DeleteContent - (r,22664,22670),B
+[Fri Mar 27 16:03:12 UTC 2020][INFO] [Action] E ItemChanged - -1,31996
+[Fri Mar 27 16:03:12 UTC 2020][INFO] [Action] E ItemChanged - -1,31996
+[Fri Mar 27 16:03:13 UTC 2020][INFO] [Action] E DeleteContent - (r,31996,32002),B
+[Fri Mar 27 16:03:14 UTC 2020][INFO] [Action] E ItemChanged - -1,44138
+[Fri Mar 27 16:03:15 UTC 2020][INFO] [Action] E ItemChanged - -1,44138
+[Fri Mar 27 16:03:15 UTC 2020][INFO] [Action] E DeleteContent - (r,44138,44144),B
+[Fri Mar 27 16:03:16 UTC 2020][INFO] [Action] E ItemChanged - -1,50121
+[Fri Mar 27 16:03:16 UTC 2020][INFO] [Action] E ItemChanged - -1,50121
+[Fri Mar 27 16:03:17 UTC 2020][INFO] [Action] E DeleteContent - (r,50121,50127),B
+[Fri Mar 27 16:03:17 UTC 2020][INFO] [Action] E ItemChanged - -1,58747
+[Fri Mar 27 16:03:18 UTC 2020][INFO] [Action] E ItemChanged - -1,58747
+[Fri Mar 27 16:03:19 UTC 2020][INFO] [Action] E ItemChanged - -1,58747
+[Fri Mar 27 16:03:20 UTC 2020][INFO] [Action] E DeleteContent - (r,58747,58753),B
+[Fri Mar 27 16:03:20 UTC 2020][INFO] [Action] E ItemChanged - -1,64236
+[Fri Mar 27 16:03:21 UTC 2020][INFO] [Action] E ItemChanged - -1,64236
+[Fri Mar 27 16:03:21 UTC 2020][INFO] [Action] E DeleteContent - (r,64236,64242),B
+[Fri Mar 27 16:03:22 UTC 2020][INFO] [Action] E ItemChanged - -1,75202
+[Fri Mar 27 16:03:22 UTC 2020][INFO] [Action] E ItemChanged - -1,75202
+[Fri Mar 27 16:03:23 UTC 2020][INFO] [Action] E DeleteContent - (r,75202,75208),B
+[Fri Mar 27 16:03:24 UTC 2020][INFO] [Action] E ItemChanged - -1,82073
+[Fri Mar 27 16:03:25 UTC 2020][INFO] [Action] E ItemChanged - -1,82073
+[Fri Mar 27 16:03:25 UTC 2020][INFO] [Action] E DeleteContent - (r,82073,82079),B
+[Fri Mar 27 16:03:26 UTC 2020][INFO] [Action] E ItemChanged - -1,103845
+[Fri Mar 27 16:03:27 UTC 2020][INFO] [Action] E ItemChanged - -1,103845
+[Fri Mar 27 16:03:28 UTC 2020][INFO] [Action] E DeleteContent - (r,103845,103851),B
+[Fri Mar 27 16:04:14 UTC 2020][INFO] [Action] E ItemChanged - -1,115383
+[Fri Mar 27 16:04:15 UTC 2020][INFO] [Action] E ItemChanged - -1,115383
+[Fri Mar 27 16:04:15 UTC 2020][INFO] [Action] E DeleteContent - (r,115383,115389),B
+[Fri Mar 27 16:04:16 UTC 2020][INFO] [Action] E ItemChanged - -1,130720
+[Fri Mar 27 16:04:16 UTC 2020][INFO] [Action] E ItemChanged - -1,130720
+[Fri Mar 27 16:04:17 UTC 2020][INFO] [Action] E DeleteContent - (r,130720,130726),B
+[Fri Mar 27 16:04:18 UTC 2020][INFO] [Action] E ItemChanged - -1,140801
+[Fri Mar 27 16:04:18 UTC 2020][INFO] [Action] E ItemChanged - -1,140801
+[Fri Mar 27 16:04:19 UTC 2020][INFO] [Action] E DeleteContent - (r,140801,140807),B
+[Fri Mar 27 16:04:27 UTC 2020][INFO] [Action] E ItemChanged - -1,147713
+[Fri Mar 27 16:04:28 UTC 2020][INFO] [Action] E ItemChanged - -1,147713
+[Fri Mar 27 16:04:28 UTC 2020][INFO] [Action] E DeleteContent - (r,147713,147719),B
+[Fri Mar 27 16:04:29 UTC 2020][INFO] [Action] E ItemChanged - -1,158249
+[Fri Mar 27 16:04:29 UTC 2020][INFO] [Action] E ItemChanged - -1,158249
+[Fri Mar 27 16:04:30 UTC 2020][INFO] [Action] E DeleteContent - (r,158249,158255),B
+[Fri Mar 27 16:04:32 UTC 2020][INFO] [Action] E ItemChanged - -1,190204
+[Fri Mar 27 16:04:33 UTC 2020][INFO] [Action] E DeleteContent - (r,190204,190210),B
+[Fri Mar 27 16:04:34 UTC 2020][INFO] [Action] E ItemChanged - -1,165546
+[Fri Mar 27 16:04:35 UTC 2020][INFO] [Action] E DeleteContent - (r,165546,165552),B
+[Fri Mar 27 16:04:37 UTC 2020][INFO] [Action] E ItemChanged - -1,194206
+[Fri Mar 27 16:04:37 UTC 2020][INFO] [Action] E ItemChanged - -1,194206
+[Fri Mar 27 16:04:38 UTC 2020][INFO] [Action] E DeleteContent - (r,194206,194212),B
+[Fri Mar 27 16:04:41 UTC 2020][INFO] [Action] E ItemChanged - -1,230404
+[Fri Mar 27 16:04:41 UTC 2020][INFO] [Action] E ItemChanged - -1,230404
+[Fri Mar 27 16:04:42 UTC 2020][INFO] [Action] E DeleteContent - (r,230404,230410),B
+[Fri Mar 27 16:04:43 UTC 2020][INFO] [Action] E ItemChanged - -1,219922
+[Fri Mar 27 16:04:43 UTC 2020][INFO] [Action] E ItemChanged - -1,219922
+[Fri Mar 27 16:04:44 UTC 2020][INFO] [Action] E DeleteContent - (r,219922,219928),B
+[Fri Mar 27 16:04:46 UTC 2020][INFO] [Action] E ItemChanged - -1,247191
+[Fri Mar 27 16:04:47 UTC 2020][INFO] [Action] E ItemChanged - -1,247191
+[Fri Mar 27 16:04:48 UTC 2020][INFO] [Action] E DeleteContent - (r,247191,247197),B
+[Fri Mar 27 16:04:50 UTC 2020][INFO] [Action] E ItemChanged - -1,252776
+[Fri Mar 27 16:04:51 UTC 2020][INFO] [Action] E ItemChanged - -1,252776
+[Fri Mar 27 16:04:51 UTC 2020][INFO] [Action] E DeleteContent - (r,252776,252782),B
+[Fri Mar 27 16:04:58 UTC 2020][INFO] [Action] E ItemChanged - -1,270016
+[Fri Mar 27 16:04:58 UTC 2020][INFO] [Action] E ItemChanged - -1,270016
+[Fri Mar 27 16:04:59 UTC 2020][INFO] [Action] E DeleteContent - (r,270016,270022),B
+[Fri Mar 27 16:05:01 UTC 2020][INFO] [Action] E ItemChanged - -1,291911
+[Fri Mar 27 16:05:01 UTC 2020][INFO] [Action] E ItemChanged - -1,291911
+[Fri Mar 27 16:05:02 UTC 2020][INFO] [Action] E DeleteContent - (r,291911,291917),B
+[Fri Mar 27 16:05:51 UTC 2020][INFO] [Action] E ItemChanged - -1,301355
+[Fri Mar 27 16:05:52 UTC 2020][INFO] [Action] E ItemChanged - -1,301355
+[Fri Mar 27 16:05:52 UTC 2020][INFO] [Action] E DeleteContent - (r,301355,301361),B
+[Fri Mar 27 16:05:57 UTC 2020][INFO] [Action] E ItemChanged - -1,314105
+[Fri Mar 27 16:05:57 UTC 2020][INFO] [Action] E ItemChanged - -1,314105
+[Fri Mar 27 16:05:58 UTC 2020][INFO] [Action] E DeleteContent - (r,314105,314111),B
+[Fri Mar 27 16:06:34 UTC 2020][INFO] [Action] E ItemChanged - -1,329655
+[Fri Mar 27 16:06:34 UTC 2020][INFO] [Action] E ItemChanged - -1,329655
+[Fri Mar 27 16:06:35 UTC 2020][INFO] [Action] E DeleteContent - (r,329655,329661),B
+[Fri Mar 27 16:06:37 UTC 2020][INFO] [Action] E ItemChanged - -1,379108
+[Fri Mar 27 16:06:37 UTC 2020][INFO] [Action] E ItemChanged - -1,379108
+[Fri Mar 27 16:06:38 UTC 2020][INFO] [Action] E DeleteContent - (r,379108,379114),B
+[Fri Mar 27 16:06:40 UTC 2020][INFO] [Action] E ItemChanged - -1,352567
+[Fri Mar 27 16:06:40 UTC 2020][INFO] [Action] E ItemChanged - -1,352567
+[Fri Mar 27 16:06:41 UTC 2020][INFO] [Action] E DeleteContent - (r,352567,352573),B
+[Fri Mar 27 16:06:44 UTC 2020][INFO] [Action] E ItemChanged - -1,393066
+[Fri Mar 27 16:06:48 UTC 2020][INFO] [Action] E ItemChanged - -1,393066
+[Fri Mar 27 16:06:48 UTC 2020][INFO] [Action] E DeleteContent - (r,393066,393072),B
+[Fri Mar 27 16:06:50 UTC 2020][INFO] [Action] E ItemChanged - -1,407476
+[Fri Mar 27 16:06:50 UTC 2020][INFO] [Action] E ItemChanged - -1,407476
+[Fri Mar 27 16:06:51 UTC 2020][INFO] [Action] E DeleteContent - (r,407476,407482),B
+[Fri Mar 27 16:06:53 UTC 2020][INFO] [Action] E ItemChanged - -1,415982
+[Fri Mar 27 16:06:53 UTC 2020][INFO] [Action] E ItemChanged - -1,415982
+[Fri Mar 27 16:06:54 UTC 2020][INFO] [Action] E ItemChanged - -1,415982
+[Fri Mar 27 16:06:55 UTC 2020][INFO] [Action] E DeleteContent - (r,415982,415988),B
+[Fri Mar 27 16:06:56 UTC 2020][INFO] [Action] E ItemChanged - -1,425767
+[Fri Mar 27 16:06:57 UTC 2020][INFO] [Action] E ItemChanged - -1,425767
+[Fri Mar 27 16:06:57 UTC 2020][INFO] [Action] E DeleteContent - (r,425767,425773),B
+[Fri Mar 27 16:06:59 UTC 2020][INFO] [Action] E ItemChanged - -1,442260
+[Fri Mar 27 16:06:59 UTC 2020][INFO] [Action] E ItemChanged - -1,442260
+[Fri Mar 27 16:07:00 UTC 2020][INFO] [Action] E DeleteContent - (r,442260,442266),B
+[Fri Mar 27 16:07:01 UTC 2020][INFO] [Action] E ItemChanged - -1,475540
+[Fri Mar 27 16:07:02 UTC 2020][INFO] [Action] E ItemChanged - -1,475540
+[Fri Mar 27 16:07:02 UTC 2020][INFO] [Action] E DeleteContent - (r,475540,475546),B
+[Fri Mar 27 16:07:04 UTC 2020][INFO] [Action] E ItemChanged - -1,486580
+[Fri Mar 27 16:07:05 UTC 2020][INFO] [Action] E ItemChanged - -1,486580
+[Fri Mar 27 16:07:05 UTC 2020][INFO] [Action] E DeleteContent - (r,486580,486586),B
+[Fri Mar 27 16:07:09 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:08:21 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:08:23 UTC 2020][INFO] [Action] E ItemChanged - -1,497485
+[Fri Mar 27 16:08:24 UTC 2020][INFO] [Action] E ItemChanged - -1,497485
+[Fri Mar 27 16:08:25 UTC 2020][INFO] [Action] E DeleteContent - (r,497485,497491),B
+[Fri Mar 27 16:08:28 UTC 2020][INFO] [Action] E ItemChanged - -1,531498
+[Fri Mar 27 16:08:29 UTC 2020][INFO] [Action] E ItemChanged - -1,531498
+[Fri Mar 27 16:08:29 UTC 2020][INFO] [Action] E DeleteContent - (r,531498,531504),B
+[Fri Mar 27 16:08:31 UTC 2020][INFO] [Action] E ItemChanged - -1,541646
+[Fri Mar 27 16:08:32 UTC 2020][INFO] [Action] E DeleteContent - (r,541646,541652),B
+[Fri Mar 27 16:08:34 UTC 2020][INFO] [Action] E ItemChanged - -1,574183
+[Fri Mar 27 16:08:34 UTC 2020][INFO] [Action] E ItemChanged - -1,574183
+[Fri Mar 27 16:08:35 UTC 2020][INFO] [Action] E DeleteContent - (r,574183,574189),B
+[Fri Mar 27 16:08:36 UTC 2020][INFO] [Action] E ItemChanged - -1,580418
+[Fri Mar 27 16:08:37 UTC 2020][INFO] [Action] E ItemChanged - -1,580418
+[Fri Mar 27 16:08:38 UTC 2020][INFO] [Action] E DeleteContent - (r,580418,580424),B
+[Fri Mar 27 16:08:40 UTC 2020][INFO] [Action] E ItemChanged - -1,583428
+[Fri Mar 27 16:08:42 UTC 2020][INFO] [Action] E ItemChanged - -1,583612
+[Fri Mar 27 16:08:45 UTC 2020][INFO] [Action] E ItemChanged - -1,584019
+[Fri Mar 27 16:08:46 UTC 2020][INFO] [Action] E ItemChanged - -1,583899
+[Fri Mar 27 16:08:47 UTC 2020][INFO] [Action] E ItemChanged - -1,583612
+[Fri Mar 27 16:08:48 UTC 2020][INFO] [Action] E ItemChanged - -1,583428
+[Fri Mar 27 16:09:01 UTC 2020][INFO] [Action] E UpdateStyle - (r,583428,583512),16:12.000000:2,(r,583428,583512),F
+[Fri Mar 27 16:09:24 UTC 2020][INFO] [Action] E UpdateStyle - (r,583635,583892),16:10.000000:2,(r,583635,583892),F
+[Fri Mar 27 16:09:28 UTC 2020][INFO] [Action] E UpdateStyle - (r,583893,583897),16:10.000000:2,(r,583893,583897),F
+[Fri Mar 27 16:11:14 UTC 2020][INFO] [Action] E UpdateStyle - (r,583982,584017),16:16.000000:2,(r,583982,584017),F
+[Fri Mar 27 16:11:32 UTC 2020][INFO] [Action] E UpdateStyle - (r,584038,584055),16:16.000000:2,(r,584038,584055),F
+[Fri Mar 27 16:11:38 UTC 2020][INFO] [Action] E UpdateStyle - (r,584105,584127),16:16.000000:2,(r,584105,584127),F
+[Fri Mar 27 16:11:45 UTC 2020][INFO] [Action] E AddTextContainer - (c,583634,2),0,0,0
+[Fri Mar 27 16:11:54 UTC 2020][INFO] [Action] E ItemChanged - -1,1153
+[Fri Mar 27 16:11:55 UTC 2020][INFO] [Action] E ItemChanged - -1,1153
+[Fri Mar 27 16:11:57 UTC 2020][INFO] [Action] E ItemChanged - -1,58
+[Fri Mar 27 16:11:58 UTC 2020][INFO] [Action] E ItemChanged - -1,1153
+[Fri Mar 27 16:12:06 UTC 2020][INFO] [Action] E ApplySemantics - (r,1163,1748),first_para
+[Fri Mar 27 16:12:13 UTC 2020][INFO] [Action] E ApplySemantics - (r,1153,1155),chapter_title
+[Fri Mar 27 16:12:13 UTC 2020][INFO] [Action] EFail ApplySemantics - 4
+[Fri Mar 27 16:12:15 UTC 2020][INFO] [Action] E ApplySemantics - (r,1156,1162),chapter_subtitle
+[Fri Mar 27 16:12:18 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:12:19 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:12:21 UTC 2020][INFO] [Action] E ItemChanged - -1,18658
+[Fri Mar 27 16:12:24 UTC 2020][INFO] [Action] E ApplySemantics - (r,18669,19007),first_para
+[Fri Mar 27 16:12:26 UTC 2020][INFO] [Action] E ItemChanged - -1,22664
+[Fri Mar 27 16:12:28 UTC 2020][INFO] [Action] E ApplySemantics - (r,22688,22973),first_para
+[Fri Mar 27 16:12:31 UTC 2020][INFO] [Action] E ItemChanged - -1,31996
+[Fri Mar 27 16:12:35 UTC 2020][INFO] [Action] E ApplySemantics - (r,32020,32443),first_para
+[Fri Mar 27 16:12:38 UTC 2020][INFO] [Action] E ItemChanged - -1,44138
+[Fri Mar 27 16:12:42 UTC 2020][INFO] [Action] E ApplySemantics - (r,44154,44456),first_para
+[Fri Mar 27 16:12:44 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:12:45 UTC 2020][INFO] [Action] E ItemChanged - -1,50121
+[Fri Mar 27 16:12:48 UTC 2020][INFO] [Action] E ApplySemantics - (r,50143,50347),first_para
+[Fri Mar 27 16:12:49 UTC 2020][INFO] [Action] E ItemChanged - -1,58747
+[Fri Mar 27 16:12:58 UTC 2020][INFO] [Action] E ApplySemantics - (r,58760,59168),first_para
+[Fri Mar 27 16:12:59 UTC 2020][INFO] [Action] E ItemChanged - -1,64236
+[Fri Mar 27 16:13:03 UTC 2020][INFO] [Action] E ApplySemantics - (r,64250,64457),first_para
+[Fri Mar 27 16:13:04 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:05 UTC 2020][INFO] [Action] E ItemChanged - -1,75202
+[Fri Mar 27 16:13:08 UTC 2020][INFO] [Action] E ApplySemantics - (r,75225,75387),first_para
+[Fri Mar 27 16:13:09 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:10 UTC 2020][INFO] [Action] E ItemChanged - -1,82073
+[Fri Mar 27 16:13:15 UTC 2020][INFO] [Action] E ApplySemantics - (r,82088,82362),first_para
+[Fri Mar 27 16:13:16 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:17 UTC 2020][INFO] [Action] E ItemChanged - -1,103845
+[Fri Mar 27 16:13:21 UTC 2020][INFO] [Action] E ApplySemantics - (r,103866,104167),first_para
+[Fri Mar 27 16:13:22 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:24 UTC 2020][INFO] [Action] E ItemChanged - -1,115383
+[Fri Mar 27 16:13:29 UTC 2020][INFO] [Action] E ApplySemantics - (r,115401,115649),first_para
+[Fri Mar 27 16:13:29 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:31 UTC 2020][INFO] [Action] E ItemChanged - -1,130720
+[Fri Mar 27 16:13:34 UTC 2020][INFO] [Action] E ApplySemantics - (r,130737,130935),first_para
+[Fri Mar 27 16:13:35 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:36 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:37 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:38 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:38 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:38 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:39 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:39 UTC 2020][INFO] [Action] U ApplySemantics
+[Fri Mar 27 16:13:42 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:44 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:13:46 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:14:02 UTC 2020][INFO] [Action] EE PackageWorkspace
+[Fri Mar 27 16:14:03 UTC 2020][INFO] [Action] E SaveBook - Save
+[Fri Mar 27 16:14:04 UTC 2020][INFO] Logger Terminated

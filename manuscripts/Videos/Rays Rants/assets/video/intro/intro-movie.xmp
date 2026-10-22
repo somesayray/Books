@@ -1,0 +1,410 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.163765, 2019/01/24-18:11:46        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+   xmpMM:InstanceID="xmp.iid:bbef0d6a-3d0f-9b43-bfa2-dc7469feacc9"
+   xmpMM:DocumentID="256a4fe8-c5ca-053f-b9f6-f07100000049"
+   xmpMM:OriginalDocumentID="xmp.did:9d46dd71-b49c-1b44-89ef-cd2f0cea03b1"
+   xmp:MetadataDate="2019-11-21T18:25:46-05:00"
+   xmp:ModifyDate="2019-11-21T18:25:46-05:00"
+   xmp:CreatorTool="Adobe Premiere Pro 2019.1 (Windows)"
+   xmp:CreateDate="2019-11-21T18:25:13-05:00"
+   xmpDM:videoFrameRate="29.970030"
+   xmpDM:videoFieldOrder="Progressive"
+   xmpDM:videoPixelAspectRatio="1/1"
+   xmpDM:audioSampleRate="48000"
+   xmpDM:audioSampleType="16Int"
+   xmpDM:audioChannelType="Stereo"
+   xmpDM:startTimeScale="30000"
+   xmpDM:startTimeSampleSize="1001"
+   dc:format="MPEG2">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="48ac9b02-a5f4-cf9b-940c-ccb900000076"
+      stEvt:when="2019-11-21T18:25:46-05:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:0ca110f4-03d9-814d-8afe-5be73ea8dcdc"
+      stEvt:when="2019-11-21T18:25:42-05:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:601b8f2b-8475-a34f-8710-cf0baa967f1d"
+      stEvt:when="2019-11-21T18:25:46-05:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:bbef0d6a-3d0f-9b43-bfa2-dc7469feacc9"
+      stEvt:when="2019-11-21T18:25:46-05:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpMM:Ingredients>
+    <rdf:Bag>
+     <rdf:li
+      stRef:instanceID="2d7499c8-f2f9-449e-dca9-52cf00000074"
+      stRef:documentID="8eed3336-4a46-c033-042e-b06c00000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:0d6136383052800f254016000000"
+      stRef:filePath="pendant.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="39e3070a-c724-d963-34e4-c23300000074"
+      stRef:documentID="246dda07-1715-b8a5-3623-97fa00000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1957879123200f254016000000d3161423865600f254016000000"
+      stRef:filePath="sr-logo.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="3d017ff1-a963-9f95-4dc7-36da0000011a"
+      stRef:documentID="42ca668a-9586-276e-cdd1-9530000000ed"
+      stRef:fromPart="time:0d6136383052800f254016000000"
+      stRef:toPart="time:0d6136383052800f254016000000"
+      stRef:filePath="ES_Valkyries Of Valhalla - Dragon Tamer - fantasy.strings with timpani.orchestral movie score.mp3"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="4bc5039a-bc1d-b86d-4c7d-c10300000074"
+      stRef:documentID="349807bc-bacb-531c-1dbb-9ab900000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:0d5119302988800f254016000000"
+      stRef:filePath="bg-main.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="54ed8ffc-7b85-9037-5495-40480000007a"
+      stRef:documentID="ecdec57f-bfea-664d-c04b-4b570000004d"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:3491974886400f254016000000d2644408166400f254016000000"
+      stRef:filePath="signatured.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="55e4c01b-3ab9-5c0e-1a79-d39700000074"
+      stRef:documentID="a6e096a8-cd2a-9e41-f40e-e6f200000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:220367347200f254016000000d4898935641600f254016000000"
+      stRef:filePath="cyber-1.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="7426715e-c979-06b3-ed0d-764000000076"
+      stRef:documentID="25bf305f-483f-e029-4758-fd1b00000049"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:220367347200f254016000000d4898935641600f254016000000"
+      stRef:filePath="girl-one.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="c2e2c3b5-f480-4709-075e-9e7400000074"
+      stRef:documentID="4a5b8790-9cba-49e0-3807-684000000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1957879123200f254016000000d3161423865600f254016000000"
+      stRef:filePath="sw-logo.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="ef8c958c-e728-8827-320a-4f8c00000074"
+      stRef:documentID="91b5e2d1-f299-9f91-c4ac-f77400000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1957879123200f254016000000d3161423865600f254016000000"
+      stRef:filePath="er-logo.fw.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="fac58be3-6869-24bd-44e7-776400000074"
+      stRef:documentID="ad9fdbac-74d0-952c-56c9-9a9100000047"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1957879123200f254016000000d3161423865600f254016000000"
+      stRef:filePath="oc-logo.fw.png"
+      stRef:maskMarkers="None"/>
+    </rdf:Bag>
+   </xmpMM:Ingredients>
+   <xmpMM:Pantry>
+    <rdf:Bag>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:50:27Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="2d7499c8-f2f9-449e-dca9-52cf00000074"
+       xmpMM:DocumentID="8eed3336-4a46-c033-042e-b06c00000047"
+       xmpMM:OriginalDocumentID="xmp.did:71145b67-2500-0445-bd6d-bcb8754a6ada">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="2d7499c8-f2f9-449e-dca9-52cf00000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:51:58Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="39e3070a-c724-d963-34e4-c23300000074"
+       xmpMM:DocumentID="246dda07-1715-b8a5-3623-97fa00000047"
+       xmpMM:OriginalDocumentID="xmp.did:7cf21d80-16c2-5548-b796-3b3e7fb425fe">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="39e3070a-c724-d963-34e4-c23300000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:artist="Jo Wandrini"
+       xmpDM:genre="Action"
+       xmpDM:composer="Johannes Bornlöf"
+       xmp:CreateDate="2019"
+       xmp:MetadataDate="2019-11-21T18:12:36-05:00"
+       xmp:ModifyDate="2019-11-21T18:12:36-05:00"
+       xmpMM:InstanceID="3d017ff1-a963-9f95-4dc7-36da0000011a"
+       xmpMM:DocumentID="42ca668a-9586-276e-cdd1-9530000000ed"
+       xmpMM:OriginalDocumentID="xmp.did:1013c181-cb05-3247-96c7-adee9420066b">
+      <dc:title>
+       <rdf:Alt>
+        <rdf:li xml:lang="x-default">Hordes</rdf:li>
+       </rdf:Alt>
+      </dc:title>
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="3d017ff1-a963-9f95-4dc7-36da0000011a"
+         stEvt:when="2019-11-21T18:12:36-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T21:11:08Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="4bc5039a-bc1d-b86d-4c7d-c10300000074"
+       xmpMM:DocumentID="349807bc-bacb-531c-1dbb-9ab900000047"
+       xmpMM:OriginalDocumentID="xmp.did:8a997a60-e2f1-fb48-823c-be87a2f585da">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="4bc5039a-bc1d-b86d-4c7d-c10300000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:52:52Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="54ed8ffc-7b85-9037-5495-40480000007a"
+       xmpMM:DocumentID="ecdec57f-bfea-664d-c04b-4b570000004d"
+       xmpMM:OriginalDocumentID="xmp.did:ec6e5d7f-641b-0242-97ee-b3fe10accb9b">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="54ed8ffc-7b85-9037-5495-40480000007a"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:51:17Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="55e4c01b-3ab9-5c0e-1a79-d39700000074"
+       xmpMM:DocumentID="a6e096a8-cd2a-9e41-f40e-e6f200000047"
+       xmpMM:OriginalDocumentID="xmp.did:49ed4a8e-b3d2-a243-becf-49608f0be65c">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="55e4c01b-3ab9-5c0e-1a79-d39700000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:50:54Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="7426715e-c979-06b3-ed0d-764000000076"
+       xmpMM:DocumentID="25bf305f-483f-e029-4758-fd1b00000049"
+       xmpMM:OriginalDocumentID="xmp.did:d778653c-9215-7146-acc5-9f1ad8e52237">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="7426715e-c979-06b3-ed0d-764000000076"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:51:42Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="c2e2c3b5-f480-4709-075e-9e7400000074"
+       xmpMM:DocumentID="4a5b8790-9cba-49e0-3807-684000000047"
+       xmpMM:OriginalDocumentID="xmp.did:53668d2f-18e6-654c-a049-3170dc877b13">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="c2e2c3b5-f480-4709-075e-9e7400000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:52:15Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="ef8c958c-e728-8827-320a-4f8c00000074"
+       xmpMM:DocumentID="91b5e2d1-f299-9f91-c4ac-f77400000047"
+       xmpMM:OriginalDocumentID="xmp.did:15d63631-e858-eb4e-b461-5a6ccae458c7">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="ef8c958c-e728-8827-320a-4f8c00000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmp:CreatorTool="Adobe Fireworks CS6 (Windows)"
+       xmp:CreateDate="2019-11-21T22:52:31Z"
+       xmp:ModifyDate="2019-11-21T17:55:02-05:00"
+       xmp:MetadataDate="2019-11-21T17:55:02-05:00"
+       dc:format="image/png"
+       xmpMM:InstanceID="fac58be3-6869-24bd-44e7-776400000074"
+       xmpMM:DocumentID="ad9fdbac-74d0-952c-56c9-9a9100000047"
+       xmpMM:OriginalDocumentID="xmp.did:969a7d06-466d-bc42-a524-42a34f26cfef">
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="fac58be3-6869-24bd-44e7-776400000074"
+         stEvt:when="2019-11-21T17:55:02-05:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2019.1 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Bag>
+   </xmpMM:Pantry>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:0ca110f4-03d9-814d-8afe-5be73ea8dcdc"
+    stRef:documentID="xmp.did:0ca110f4-03d9-814d-8afe-5be73ea8dcdc"
+    stRef:originalDocumentID="xmp.did:0ca110f4-03d9-814d-8afe-5be73ea8dcdc"/>
+   <creatorAtom:windowsAtom
+    creatorAtom:extension=".prproj"
+    creatorAtom:invocationFlags="/L"
+    creatorAtom:uncProjectPath="\\?\G:\My Drive\Author\VLOG\assets\projects\splash-intro\intro.prproj"/>
+   <creatorAtom:macAtom
+    creatorAtom:applicationCode="1347449455"
+    creatorAtom:invocationAppleEvent="1129468018"/>
+   <xmpDM:projectRef
+    xmpDM:type="movie"/>
+   <xmpDM:videoFrameSize
+    stDim:w="1280"
+    stDim:h="720"
+    stDim:unit="pixel"/>
+   <xmpDM:duration
+    xmpDM:value="724"
+    xmpDM:scale="1001/30000"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="2997DropTimecode"
+    xmpDM:timeValue="00;00;00;00"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00;00;00;00"
+    xmpDM:timeFormat="2997DropTimecode"/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>

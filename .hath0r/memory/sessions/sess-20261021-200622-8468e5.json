@@ -1,0 +1,65 @@
+{
+  "schema_version": "hath0r.micro_session/1",
+  "session_id": "sess-20261021-200622-8468e5",
+  "prior_session_id": null,
+  "parent_session_id": null,
+  "revision": 2,
+  "content_hash": "sha256:24c5f49880d6c8ba53658ed3bbb8f42aee138b2db0544a27b508392cd4d6cde1",
+  "base_graph_hash": "sha256:ff9a46dfb78cda040120904d599319a4280f0a1243fbc1b6fcebe6eb9f323d4d",
+  "task_id": null,
+  "role": null,
+  "repo_name": "Books",
+  "status": "active",
+  "started_at": "2026-10-21T20:06:22.272607+00:00",
+  "updated_at": "2026-10-21T20:06:22.310308+00:00",
+  "ended_at": null,
+  "read_count": 1,
+  "write_count": 2,
+  "last_read_at": "2026-10-21T20:06:22.272607+00:00",
+  "last_write_at": "2026-10-21T20:06:22.310308+00:00",
+  "active_focus": "Initialized local memory space for Books",
+  "prior_summary": "",
+  "recalled_nodes": [
+    {
+      "id": "rule:cr-bai-001",
+      "type": "rule",
+      "label": "Promotion Path Policy",
+      "snippet": "Promotion order: local -> development -> testing -> staging -> master."
+    },
+    {
+      "id": "rule:cr-memory-compound-001",
+      "type": "rule",
+      "label": "Mandatory MemoryGraph Compounding Rule",
+      "snippet": "Every project repo must maintain .hath0r/memory/graph.json and every task must compound kn"
+    }
+  ],
+  "micro_entries": [
+    {
+      "timestamp": "2026-10-21T20:06:22.272607+00:00",
+      "kind": "observation",
+      "summary": "Started session focus: Initialized local memory space for Books",
+      "tags": [
+        "session-start"
+      ],
+      "node_id": null
+    },
+    {
+      "timestamp": "2026-10-21T20:06:22.310308+00:00",
+      "kind": "compound",
+      "summary": "Compounded episode:share-20261021T200622Z: Knowledge Share (share-20261021T200622Z)",
+      "tags": [
+        "knowledge-share",
+        "share-20261021t200622z",
+        "books",
+        "episode",
+        "compounded"
+      ],
+      "node_id": "episode:share-20261021T200622Z"
+    }
+  ],
+  "next_steps": [],
+  "compounded_node_ids": [
+    "episode:share-20261021T200622Z"
+  ],
+  "capsule_bytes": 2045
+}

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Indices
+data/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Hath0r (do not ignore mcp.json)
+.hath0r/*
+!.hath0r/mcp.json
+!.hath0r/contracts
+!.hath0r/events.jsonl
+!.hath0r/knowledgebase
+!.hath0r/knowledgebase/**
+!.hath0r/cfg
+!.hath0r/cfg/**
+
+# Canonical Hath0r Graph Folders (NEVER ignore — CR-MEMORY-COMPOUND-001 & CR-AGENTGRAPH-001)
+!.hath0r/
+!.hath0r/memory/
+!.hath0r/memory/**
+!.hath0r/memory/sessions/
+!.hath0r/memory/sessions/**
+!.hath0r/agentgraph/
+!.hath0r/agentgraph/**
+!.hath0r/graphs/
+!.hath0r/graphs/**
+!.hath0r/state/
+!.hath0r/state/cache/
+!.hath0r/state/cache/**
+!.hath0r/state/context/
+!.hath0r/state/context/**
