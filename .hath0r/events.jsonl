@@ -88,3 +88,5 @@
 {"timestamp": "2026-10-22T09:25:03Z", "event_type": "agent_cli_step", "command": "mcp", "args": ["mcp", "check"], "agent_id": "hath0r-operator-agent", "user": "raybayly"}
 {"timestamp": "2026-10-22T09:26:19Z", "event_type": "agent_cli_step", "command": "mcp", "args": ["mcp", "check"], "agent_id": "hath0r-operator-agent", "user": "raybayly"}
 {"timestamp": "2026-10-22T09:26:53Z", "event_type": "agent_cli_step", "command": "kb", "args": ["kb", "index"], "agent_id": "hath0r-operator-agent", "user": "raybayly"}
+{"timestamp": "2026-10-22T09:27:56Z", "event_type": "agent_cli_step", "command": "mcp", "args": ["mcp", "check"], "agent_id": "hath0r-operator-agent", "user": "raybayly"}
+{"timestamp": "2026-10-22T09:28:01Z", "event_type": "agent_cli_step", "command": "mcp", "args": ["mcp", "call", "author-mcp", "search_author_knowledge", "--args", "{\"query\": \"Fall of the Empire\", \"index_name\": \"books\"}"], "agent_id": "hath0r-operator-agent", "user": "raybayly"}
