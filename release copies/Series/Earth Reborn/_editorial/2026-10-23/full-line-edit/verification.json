@@ -1,0 +1,43 @@
+{
+  "status": "in_progress",
+  "books": [
+    {
+      "book": "Mortis",
+      "chapters": 26,
+      "words_before": 15947,
+      "words_current": 15694,
+      "sha256": "c5cafc9a03868d788b504783fc402aad4ddfcb408a6602ba8c8cdfb08b0c0b22",
+      "full_line_edit_complete": true,
+      "reviewed_sections": "All 26 chapters"
+    },
+    {
+      "book": "The Fallen",
+      "chapters": 16,
+      "words_before": 151328,
+      "words_current": 141448,
+      "sha256": "12e14e27ad6a32c049ec3e3c354417b1aa6c7b3780c171d2a5a6a064ad3cb08a",
+      "full_line_edit_complete": false,
+      "reviewed_sections": "Prologue and Chapter One; selected canon passages elsewhere"
+    },
+    {
+      "book": "The Black Queen",
+      "chapters": 12,
+      "words_before": 62686,
+      "words_current": 62852,
+      "sha256": "cf8009555adff43d38b6474c38b4cfeb04ca59b348351a1ca975313f5345bad1",
+      "full_line_edit_complete": false,
+      "reviewed_sections": "Selected canon and closing passages only"
+    },
+    {
+      "book": "Fall of the Empire",
+      "chapters": 8,
+      "words_before": 49668,
+      "words_current": 49308,
+      "sha256": "c74cfad7c2d878294fffea35df159914cae876f8a57d0a89a95bad764fb9279e",
+      "full_line_edit_complete": false,
+      "reviewed_sections": "Selected canon and closing passages only"
+    }
+  ],
+  "exports_rebuilt": false,
+  "canonical_decisions": "Applied; full trilogy continuity verification continues"
+}

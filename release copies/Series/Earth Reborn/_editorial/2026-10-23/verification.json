@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-23",
+  "recorded_replacements_replay_exactly": true,
+  "chapter_headings_and_order_preserved": true,
+  "manuscript_edit_records": 82,
+  "manuscript_edit_occurrences": 250,
+  "files": [
+    {
+      "file": "Fall of the Empire/RELEASE_NOTES.md",
+      "before_sha256": "5a7b8446a63f1a14f67c48f953f3b75baa9eb73dcd498f996aee6d0279e268fd",
+      "after_sha256": "f30e5c7a7e8731633e9653ccd387e8dbc3f9e6776708107a40d4005ea0b39e13",
+      "before_words": 634,
+      "after_words": 708
+    },
+    {
+      "file": "Fall of the Empire/SYNOPSIS.md",
+      "before_sha256": "10c48e8b352a424151b40ff77390e1a888f3940f5baee81f71702a98d724ac52",
+      "after_sha256": "ac9b418734e938948a55c5d87d8d8aeca153ea53e069f67ee3523f0d62c07378",
+      "before_words": 1162,
+      "after_words": 230
+    },
+    {
+      "file": "Fall of the Empire/fall-of-the-empire-book-3.md",
+      "before_sha256": "bf827f433a0d5ac4366b0be06cdc8793f1c3ebb6c811411aed0813af970b085c",
+      "after_sha256": "76f027d713ad1279d2fa15713d73ae97ed161be827bee0c15da41449b3680f48",
+      "before_words": 123102,
+      "after_words": 122687
+    },
+    {
+      "file": "Mortis/SYNOPSIS.md",
+      "before_sha256": "1417691d54f35b5672379d5a200f4bc5b50bddd2d54ee5fe6a5246e9cd739a8d",
+      "after_sha256": "788fb91c4df3e509a12c6a9b3e1b5cfa1bf7274017b01b4788c10abeeb582d91",
+      "before_words": 929,
+      "after_words": 405
+    },
+    {
+      "file": "Mortis/mortis-book-0.md",
+      "before_sha256": "3bac538350be154a1101754945775cbcc98fc939d8302e12a43f1dd58783fc28",
+      "after_sha256": "1d007634a643c068506abfc49fac7e00c936b82681610f2047eac3f089035e6a",
+      "before_words": 15937,
+      "after_words": 15937
+    },
+    {
+      "file": "The Black Queen/RELEASE_NOTES.md",
+      "before_sha256": "8c6a05392053d28dc5086567591a17c19c4a0983ff5512cf9ac976a8c39fcf5d",
+      "after_sha256": "547dab59368c5677ddc1d7b2fa2df906d0d48037bdf9022bff3baef9bba54c3e",
+      "before_words": 558,
+      "after_words": 632
+    },
+    {
+      "file": "The Black Queen/SYNOPSIS.md",
+      "before_sha256": "aecced3a770b366936011e960bb2a49b280d8420272352b02a664d6d35d3da10",
+      "after_sha256": "2bc28c7a0f15e0f26cc837aba34fe3d03cb15a788a81f2e8fc003a1ec13638b0",
+      "before_words": 1141,
+      "after_words": 359
+    },
+    {
+      "file": "The Black Queen/the-black-queen-book-2.md",
+      "before_sha256": "574371b994e4743db01180c1d6ce6903eb4d50c518256ad1d820b09ecdcfc300",
+      "after_sha256": "c1b9dd2a05f294394266fdb1cfbeb552bd22066765319421a0e4e94864cb570c",
+      "before_words": 113264,
+      "after_words": 112689
+    },
+    {
+      "file": "The Fallen/RELEASE_NOTES.md",
+      "before_sha256": "beff46cde5cb70c72681d6698aff07433fb64739baf8644ee5b7c05ecfe33630",
+      "after_sha256": "882100bcd7dc6be187c52d79e3f05b82f64b484ab68ebcd4ec4aca4e0a7a6416",
+      "before_words": 473,
+      "after_words": 547
+    },
+    {
+      "file": "The Fallen/SYNOPSIS.md",
+      "before_sha256": "54f77c7d539a5802547fe595251ba90e97505cc504cd5a91c8c63694641afc60",
+      "after_sha256": "6a562f85933996c4fb1d926f6b20ef6f39ef9fd6a3dbf8c6ac63d96a218b8307",
+      "before_words": 1076,
+      "after_words": 414
+    },
+    {
+      "file": "The Fallen/the-fallen-book-1.md",
+      "before_sha256": "7cc5f2390e96f544fcba1335ef5213be110d92c47bd498dcaa2f185057a4d734",
+      "after_sha256": "2cca15db56b98441a9446745e69f5010fbdd56e19f2aedfed6a1b00aebd7ee70",
+      "before_words": 151684,
+      "after_words": 151454
+    }
+  ]
+}

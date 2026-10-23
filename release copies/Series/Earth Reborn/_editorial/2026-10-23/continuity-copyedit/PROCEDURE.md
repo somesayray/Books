@@ -1,0 +1,3 @@
+# Continuity and copyediting procedure
+
+Use the adopted 16 / 12 / 8 chapter trilogy. Preserve Mortis as the prequel. Snapshot current Markdown before edits. Query Author MCP first, treating its older indexed editions as historical. Review spelling candidates in context; preserve invented language and names unless identity evidence establishes the correction. Correct grammar, punctuation, draft residue, and local continuity with exact logged replacements. Keep unresolved canon questions explicit. Preserve plot, voice, chapter order, and source manuscripts. Verify every edit by replay and maintain a continuity register. Binary exports remain separate from the edited Markdown.

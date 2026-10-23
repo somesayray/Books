@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-23",
+  "total_edits": 1944,
+  "by_kind": {
+    "context-reviewed spelling": 320,
+    "possessive homophone, context reviewed": 150,
+    "comparative, context reviewed": 50,
+    "contraction, context reviewed": 7,
+    "context-reviewed usage": 80,
+    "continuity or contextual usage": 7,
+    "identity, viewpoint, or draft residue": 7,
+    "local continuity": 5,
+    "dialogue punctuation before speech attribution": 1162,
+    "proper-name capitalization": 27,
+    "companion identity spelling; beta notes and Book Two usage": 113,
+    "scene-break Markdown": 1,
+    "opening sentence boundaries and close viewpoint; chronology claim preserved for query": 1,
+    "Book Three opening orientation and copyedit": 1,
+    "Book Two closing scene clarity; action and outcome preserved": 1,
+    "contextual grammar": 7,
+    "contextual usage": 2,
+    "Rogan viewpoint name continuity": 3
+  },
+  "manuscripts": [
+    {
+      "book": "Fall of the Empire",
+      "file": "Fall of the Empire/fall-of-the-empire-book-3.md",
+      "edits": 563,
+      "before_words": 49962,
+      "after_words": 49668,
+      "before_sha256": "548ca661a783d313897cee0a61a9d5f399a1f0234b3c258c2ad80c6729d7dfa5",
+      "after_sha256": "d8b847a9191e9f6217bc44fa4244fdeedb669c90e1e14cb5a7558616c8e3836c",
+      "replay_exact": true,
+      "headings_preserved": true
+    },
+    {
+      "book": "The Fallen",
+      "file": "The Fallen/the-fallen-book-1.md",
+      "edits": 699,
+      "before_words": 151454,
+      "after_words": 151328,
+      "before_sha256": "2cca15db56b98441a9446745e69f5010fbdd56e19f2aedfed6a1b00aebd7ee70",
+      "after_sha256": "8d9593e9138d866be2be02c6ff450fc5c55691e08534fc43a71904d2e12d7207",
+      "replay_exact": true,
+      "headings_preserved": true
+    },
+    {
+      "book": "The Black Queen",
+      "file": "The Black Queen/the-black-queen-book-2.md",
+      "edits": 677,
+      "before_words": 62831,
+      "after_words": 62686,
+      "before_sha256": "f544c6c60a90bfa5867294a508713a5154f3f1764f7a17c125357d7ac6d0b65e",
+      "after_sha256": "c72302cc543852ec6da62a3f3dad2fed26bc22522f257f007d2b80e21d64672b",
+      "replay_exact": true,
+      "headings_preserved": true
+    },
+    {
+      "book": "Mortis",
+      "file": "Mortis/mortis-book-0.md",
+      "edits": 5,
+      "before_words": 15937,
+      "after_words": 15947,
+      "before_sha256": "1d007634a643c068506abfc49fac7e00c936b82681610f2047eac3f089035e6a",
+      "after_sha256": "2e4eaa565bae210d9482a66a30f28811835a3e39759a5721211b1160eec962f6",
+      "replay_exact": true,
+      "headings_preserved": true
+    }
+  ]
+}

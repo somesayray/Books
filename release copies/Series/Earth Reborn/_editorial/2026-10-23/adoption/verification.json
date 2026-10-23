@@ -1,0 +1,26 @@
+{
+  "adopted_by_author": true,
+  "date": "2026-10-23",
+  "candidate_match": true,
+  "exact_partition_preserved": true,
+  "counts": {
+    "The Fallen": {
+      "words": 151454,
+      "chapters": 16,
+      "epilogues": 0,
+      "sha256": "2cca15db56b98441a9446745e69f5010fbdd56e19f2aedfed6a1b00aebd7ee70"
+    },
+    "The Black Queen": {
+      "words": 62831,
+      "chapters": 12,
+      "epilogues": 0,
+      "sha256": "f544c6c60a90bfa5867294a508713a5154f3f1764f7a17c125357d7ac6d0b65e"
+    },
+    "Fall of the Empire": {
+      "words": 49962,
+      "chapters": 8,
+      "epilogues": 1,
+      "sha256": "548ca661a783d313897cee0a61a9d5f399a1f0234b3c258c2ad80c6729d7dfa5"
+    }
+  }
+}
