@@ -1,0 +1,512 @@
+[
+  {
+    "before": "hydro-carbon",
+    "after": "hydrocarbon",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "sub-light",
+    "after": "sublight",
+    "occurrences": 5,
+    "category": "terminology"
+  },
+  {
+    "before": "hyper-drive",
+    "after": "hyperdrive",
+    "occurrences": 4,
+    "category": "terminology"
+  },
+  {
+    "before": "co-pilot",
+    "after": "copilot",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "nav-console",
+    "after": "nav console",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "zero-gravity",
+    "after": "zero gravity",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "hand-held",
+    "after": "handheld",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "sister-ship",
+    "after": "sister ship",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "flash-bang",
+    "after": "flashbang",
+    "occurrences": 2,
+    "category": "terminology"
+  },
+  {
+    "before": "shock-troopers",
+    "after": "shock troopers",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "med-bay",
+    "after": "medbay",
+    "occurrences": 2,
+    "category": "terminology"
+  },
+  {
+    "before": "bio-scanner",
+    "after": "bioscanner",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "sub-harmonic",
+    "after": "subharmonic",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "sub-level",
+    "after": "sublevel",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "chop-shops",
+    "after": "chop shops",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "micro-chips",
+    "after": "microchips",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "re-affirmed",
+    "after": "reaffirmed",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "wide-band",
+    "after": "wideband",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "re-allocated",
+    "after": "reallocated",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "anti-matter",
+    "after": "antimatter",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "bio-mechanical",
+    "after": "biomechanical",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "hive-link",
+    "after": "hive link",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "hyper-velocity",
+    "after": "hypervelocity",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "hive-coordinators",
+    "after": "hive coordinators",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "hive-coordinator",
+    "after": "hive coordinator",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "triple-dose of neural paralytic",
+    "after": "triple dose of neural paralytic",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "three stories of exhaust piping",
+    "after": "three stories of disposal piping",
+    "occurrences": 1,
+    "category": "local continuity"
+  },
+  {
+    "before": "“Nobody,” the broker smiled.",
+    "after": "“Nobody.” The broker smiled.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "blue kinetic bolt into his sternum",
+    "after": "blue plasma bolt into his sternum",
+    "occurrences": 1,
+    "category": "weapon consistency"
+  },
+  {
+    "before": "“You alright?",
+    "after": "“You all right?",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "“I’ve already sliced the docking clamps,” Tess grinned, her fingers dancing across the holo-interface.",
+    "after": "“I’ve already sliced the docking clamps.” Tess grinned, her fingers dancing across the holo-interface.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "fifty gallons of fuel coolant",
+    "after": "fifty gallons of drive coolant",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "It was hollow, echoing with centuries of bone-deep grief.",
+    "after": "It was hollow, echoing with a century of bone-deep grief.",
+    "occurrences": 1,
+    "category": "duration consistency"
+  },
+  {
+    "before": "“No,” Gracie covered quickly.",
+    "after": "“No,” Gracie said quickly.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "“Two hundred kilometers dead ahead,” Tess pointed toward the heart of the graveyard.",
+    "after": "“Two hundred kilometers dead ahead.” Tess pointed toward the heart of the graveyard.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "The air inside the precursor derelict was four hundred degrees below zero and dead as a tomb.",
+    "after": "The interior of the precursor derelict was bitterly cold and still as a tomb.",
+    "occurrences": 1,
+    "category": "ambiguous temperature unit"
+  },
+  {
+    "before": "Gracie, Kael, and Unit-7 floated through the breached emergency airlock, their mag-boots clicking securely against the ribbed alloy decking.",
+    "after": "Gracie, Kael, and Unit-7 floated through the breached emergency airlock, then secured their mag-boots to the ribbed alloy decking.",
+    "occurrences": 1,
+    "category": "action clarity"
+  },
+  {
+    "before": "a deafening storm of high-velocity flechettes",
+    "after": "a storm of high-velocity flechettes",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "“Mother of god,”",
+    "after": "“Mother of God,”",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "stepping forward in zero-G",
+    "after": "stepping forward on his mag-boots",
+    "occurrences": 1,
+    "category": "action clarity"
+  },
+  {
+    "before": "the emergency proximity klaxon in their helmets blared red",
+    "after": "the proximity alarms blared in their helmets and red warnings flashed across their visors",
+    "occurrences": 1,
+    "category": "mixed senses"
+  },
+  {
+    "before": "Kael dropped his tools, lunging toward her.",
+    "after": "Kael dropped a tool and reached toward her.",
+    "occurrences": 1,
+    "category": "action continuity"
+  },
+  {
+    "before": "Kael’s heavy titanium hand clamped down on her shoulder, shaking her hard. “We’ve got the core decoupled! We need to move NOW!”",
+    "after": "Kael released the last coupling, then clamped his titanium hand on her shoulder and shook her. “The core’s decoupled! We need to move NOW!”",
+    "occurrences": 1,
+    "category": "action continuity"
+  },
+  {
+    "before": "The massive android scooped the thousand-pound glowing quantum matrix onto his armored shoulder as if it were a bag of grain.",
+    "after": "The massive android secured the glowing quantum matrix against his armored shoulder and pushed it toward the airlock.",
+    "occurrences": 1,
+    "category": "zero-gravity action"
+  },
+  {
+    "before": "“Easy, Boss,” Kael’s voice was uncharacteristically quiet.",
+    "after": "“Easy, Boss.” Kael’s voice was uncharacteristically quiet.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "her good shoulder",
+    "after": "her shoulder",
+    "occurrences": 1,
+    "category": "unsupported injury reference"
+  },
+  {
+    "before": "“Sliding down a garbage chute right after brain surgery,” Kael shook his head with genuine admiration.",
+    "after": "“Sliding down a garbage chute right after brain surgery.” Kael shook his head with admiration.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "“You... you’re not kicking me off the ship?” Gracie blinked.",
+    "after": "Gracie blinked. “You... you’re not kicking me off the ship?”",
+    "occurrences": 1,
+    "category": "action attribution"
+  },
+  {
+    "before": "“Besides,” Kael added, nodding toward the engine room. “The Aegis Core",
+    "after": "“Besides,” Kael added, nodding toward the engine room, “the Aegis Core",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "“Near New Tortuga,” Kael smiled grimly.",
+    "after": "“Near New Tortuga.” Kael smiled grimly.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "carved out of a hollowed-out nickel asteroid",
+    "after": "carved into a nickel asteroid",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "It had no government, no laws, and no questions asked.",
+    "after": "It had no government and no laws. No one asked questions.",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "lower geothermal refinery",
+    "after": "lower fuel refinery",
+    "occurrences": 2,
+    "category": "setting terminology"
+  },
+  {
+    "before": "glowing magma runoff",
+    "after": "glowing slag runoff",
+    "occurrences": 1,
+    "category": "setting terminology"
+  },
+  {
+    "before": "“Of course, of course! Anything for Captain Campbell’s daughter,” Jax bowed obsequiously.",
+    "after": "“Of course, of course! Anything for Captain Campbell’s daughter.” Jax bowed obsequiously.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "“Twenty minutes,” Gracie nodded, turning back to the corridor.",
+    "after": "“Twenty minutes.” Gracie nodded and turned back to the corridor.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "600-degree vapor",
+    "after": "superheated vapor",
+    "occurrences": 1,
+    "category": "ambiguous temperature unit"
+  },
+  {
+    "before": "Vaulting over the railing, Gracie slid beneath the blinded enforcer",
+    "after": "Gracie lunged along the catwalk and slid beneath the blinded enforcer",
+    "occurrences": 1,
+    "category": "action continuity: avoid falling fifty feet"
+  },
+  {
+    "before": "Gracie looked at the glowing sapphire Aegis Core resting securely in the auxiliary manifold.",
+    "after": "Gracie looked at the monitor showing the glowing sapphire Aegis Core secured in the auxiliary manifold.",
+    "occurrences": 1,
+    "category": "viewpoint location"
+  },
+  {
+    "before": "Twin lances of emerald antimatter fire lanced out",
+    "after": "Twin beams of emerald antimatter fire shot out",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "It’s the cruiser at bearing zero-four-zero!",
+    "after": "It’s the dreadnought at bearing zero-four-zero!",
+    "occurrences": 1,
+    "category": "ship classification"
+  },
+  {
+    "before": "escort drones stalled in mid-void",
+    "after": "escort drones drifted off course",
+    "occurrences": 1,
+    "category": "motion clarity"
+  },
+  {
+    "before": "“Wasp is down,” Tess choked back a sob, her fingers never leaving the console.",
+    "after": "“Wasp is down.” Tess choked back a sob, her fingers never leaving the console.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "“Captain Campbell,” Vargas’s voice was cultured, smooth, and chillingly devoid of empathy.",
+    "after": "“Captain Campbell.” Vargas’s voice was cultured, smooth, and chillingly devoid of empathy.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "lower your airlock",
+    "after": "open your airlock",
+    "occurrences": 1,
+    "category": "word choice"
+  },
+  {
+    "before": "until your lungs collapse in the vacuum",
+    "after": "until it ruptures and vents your air",
+    "occurrences": 1,
+    "category": "physical description"
+  },
+  {
+    "before": "reverse the tractor beam’s polarity",
+    "after": "overload the tractor beam’s holding field",
+    "occurrences": 1,
+    "category": "mechanism consistency"
+  },
+  {
+    "before": "The tractor beam violently inverted, transforming from a holding field into a high-velocity magnetic catapult.",
+    "after": "The tractor beam’s holding field collapsed into a violent inward pull.",
+    "occurrences": 1,
+    "category": "direction consistency"
+  },
+  {
+    "before": "the open flight deck of *The Black Leviathan*",
+    "after": "the armored flight deck of *The Black Leviathan*",
+    "occurrences": 1,
+    "category": "closed hangar doors consistency"
+  },
+  {
+    "before": "“Breach and clear!” Gracie shouted, leading the charge into the smoke.",
+    "after": "“Breach and clear!” Gracie shouted, following Seven into the smoke.",
+    "occurrences": 1,
+    "category": "action order"
+  },
+  {
+    "before": "Unit-7 stepped out first",
+    "after": "Unit-7 advanced",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "“Right behind you, Boss,” Kael slammed a fresh drum into his rifle.",
+    "after": "“Right behind you, Boss.” Kael slammed a fresh drum into his rifle.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "He was no longer wearing his aristocratic robes.",
+    "after": "His polished armor was now enclosed in a powered frame.",
+    "occurrences": 1,
+    "category": "costume continuity"
+  },
+  {
+    "before": "blew the observation windows into spiderwebs of fracture",
+    "after": "crazed the observation windows with spiderweb fractures",
+    "occurrences": 1,
+    "category": "pressure boundary clarity"
+  },
+  {
+    "before": "Vargas lay twitching, completely catatonic, his mind shattered",
+    "after": "Vargas lay unresponsive, his mind shattered",
+    "occurrences": 1,
+    "category": "conflicting description"
+  },
+  {
+    "before": "In her head, the Box was quiet. For the first time, the passenger was laughing",
+    "after": "In her head, the pain had subsided. For the first time, the passenger was laughing",
+    "occurrences": 1,
+    "category": "local continuity"
+  },
+  {
+    "before": "in the repairs slip",
+    "after": "in the repair slip",
+    "occurrences": 1,
+    "category": "copyedit"
+  },
+  {
+    "before": "wearing a fresh arm sling over his cracked ribs",
+    "after": "his injured ribs bandaged",
+    "occurrences": 1,
+    "category": "injury continuity"
+  },
+  {
+    "before": "“There,” Kael wiped his brow, testing the connection with his wrench.",
+    "after": "“There.” Kael wiped his brow and checked the connection.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "dampening harness",
+    "after": "damping harness",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "quantum dampener",
+    "after": "quantum damper",
+    "occurrences": 1,
+    "category": "terminology"
+  },
+  {
+    "before": "“Get used to it,” Gracie smiled.",
+    "after": "“Get used to it.” Gracie smiled.",
+    "occurrences": 1,
+    "category": "dialogue punctuation"
+  },
+  {
+    "before": "Tess was beaming, her recon drones buzzing playfully",
+    "after": "Tess was beaming, her surviving recon drone buzzing playfully",
+    "occurrences": 1,
+    "category": "drone count continuity"
+  },
+  {
+    "before": "The **Shadow AI Remnant**.",
+    "after": "The Shadow AI Remnant.",
+    "occurrences": 1,
+    "category": "narrative formatting"
+  },
+  {
+    "before": "She was the **Child of Orion**.",
+    "after": "She was the *Child of Orion*.",
+    "occurrences": 1,
+    "category": "narrative formatting"
+  }
+]

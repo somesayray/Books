@@ -5,11 +5,11 @@
 - **Series**: The Orion Chronicles (Book 1)
 - **Author**: Raymond Bayly
 - **Universe**: *Shadow War Chronicles* Expanded Universe
-- **Total Word Count**: 9,914 words (Master Novella / Opening Novel)
-- **Total Chapters**: Prologue + 16 Chapters + Epilogue Beat
+- **Total Word Count**: 9,915 words (short-form Book One)
+- **Total Chapters**: Prologue + 16 Chapters (closing beat within Chapter Sixteen)
 - **Format Deliverables**:
-  - `orions-child-book-1.md` (Pristine master Markdown edition)
-  - `orions-child-book-1.docx` (Production-ready Microsoft Word manuscript in Georgia 11pt, 1.15 line spacing, 1-inch margins, chapter breaks, and styled epigraphs)
+  - `orions-child-book-1.md` (Copyedited master Markdown edition)
+  - `orions-child-book-1.docx` (Synchronized copyedited Microsoft Word manuscript in Georgia 11pt, 1.15 line spacing, 1-inch margins, chapter breaks, and styled epigraphs)
 
 ---
 
@@ -31,5 +31,10 @@
 ### 2. Narrative Arc Summary
 - **Prologue (*The Chute*)**: Vengeance's black site surgery, the painful crawl to the garbage chute, falling into the space trash truck, and the fade out into blackness.
 - **Act I (Ch 1-4, 3 Months Later)**: The contract at Freeport 9 cantina, grappling with the Box's frantic warnings and bad advice, navigation into the Obsidian Nebula, and salvage of the ancient precursor *Aegis Core*.
-- **Act II (Ch 5-11)**: Ambush by Baron Vargas's Black Sun Syndicate, emergency fracture jump, psychic bleed revealing the prisoner's century of torture and Gracie's garbage chute escape, New Tortuga refinery betrayal by Jax (prompted by bad advice from the Box), and surviving an assault by the Shadow AI Remnant.
+- **Act II (Ch 5-11)**: Ambush by Baron Vargas's Black Sun Cartel, emergency fracture jump, psychic bleed revealing the prisoner's century of torture and Gracie's garbage chute escape, New Tortuga refinery betrayal by Jax (prompted by bad advice from the Box), and surviving an assault by the Shadow AI Remnant.
 - **Act III (Ch 12-16)**: Escorting civilian refugee transports, boarding *The Black Leviathan*, channeling the Box's century of stored trauma and her raw will to survive into an offensive neural burst to defeat Baron Vargas, and cementing her status as the *Child of Orion*.
+
+
+## Copyedit — 23 October 2026
+
+The complete release text was reviewed. Grammar, dialogue punctuation, terminology, and local action continuity were corrected; plot and chapter order are preserved. Markdown and Word text match. Before-copies, exact edits, and verification are in `_editorial/2026-10-23-copyedit/`. See `COPYEDIT_REPORT.md` for unresolved developmental questions.

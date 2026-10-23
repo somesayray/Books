@@ -27,25 +27,25 @@ Boston, Massachusetts
 
 Pain was not a concept anymore. It was an environment. It was the air filling Gracie Campbell’s lungs, the hot copper coating her tongue, and the blinding electric fire searing the base of her skull.
 
-She lay face down on the cold stainless steel of an operating slab. Above her, the harsh fluorescent tubes flickered with a high-pitched, maddening hum. The room smelled of scorched flesh, harsh surgical alcohol, and the ozone stench of high-voltage cautery tools. 
+She lay face down on the cold stainless steel of an operating slab. Above her, the harsh fluorescent tubes flickered with a high-pitched, maddening hum. The room smelled of scorched flesh, harsh surgical alcohol, and the ozone stench of high-voltage cautery tools.
 
 At the nape of her neck, just beneath the occipital ridge where her dark hair had been crudely shaved away, something heavy and foreign throbbed against her cervical vertebrae. It was cold—impossibly cold—like a chip of black ice burrowed directly into her brainstem.
 
 *The Box.*
 
-She remembered the mocking, bandaged visage of Vengeance leaning over her hours earlier. She remembered his wet, raspy laughter as the mechanical arms pinned her down. 
+She remembered the mocking, bandaged visage of Vengeance leaning over her hours earlier. She remembered his wet, raspy laughter as the mechanical arms pinned her down.
 
 *“A special gift for Blake Campbell’s precious daughter,”* Vengeance had whispered, his breath smelling of decay behind his medical mask. *“An old friend of mine. We spent one hundred years together in the dark, he and I. Every scream. Every nerve peeled back. I couldn't let his brilliant mind go to waste... so now, little bird, you will carry him forever.”*
 
 Then the drill had bitten into her skull.
 
-Now, the chamber was eerily quiet. Through the heavy, drugged haze that weighed on her limbs, Gracie realized the surgical attendants had stepped out. Perhaps they believed the triple-dose of neural paralytic would keep her subdued for hours. Perhaps they thought no human being could withstand having an alien biomechanical canister spliced into their spinal column and still retain the will to twitch a finger.
+Now, the chamber was eerily quiet. Through the heavy, drugged haze that weighed on her limbs, Gracie realized the surgical attendants had stepped out. Perhaps they believed the triple dose of neural paralytic would keep her subdued for hours. Perhaps they thought no human being could withstand having an alien biomechanical canister spliced into their spinal column and still retain the will to twitch a finger.
 
 They were wrong.
 
 *Get up...*
 
-The voice didn't come from the room. It echoed directly inside her auditory nerve—raspy, dry, terrified, and vibrating with an ancient, ragged tremor. 
+The voice didn't come from the room. It echoed directly inside her auditory nerve—raspy, dry, terrified, and vibrating with an ancient, ragged tremor.
 
 *Get up! They're coming back with the clamps! They're coming back with the fire! MOVE!*
 
@@ -59,23 +59,23 @@ She hit the metal deck hard. The impact jarred her fresh incision, tearing stitc
 
 *Door... they locked the blast door...* the voice whimpered in her skull, shuddering like a trapped animal. *They're going to strip our skin again... burn the wires... burn it all...*
 
-“Shut up,” Gracie hissed aloud, her voice a ragged croak. 
+“Shut up,” Gracie hissed aloud, her voice a ragged croak.
 
 She looked up. Ten feet away, set into the bottom of the bulkhead beneath a warning placard stenciled in yellow industrial paint, was an open chute. A waste disposal hatch.
 
-A cold draft drifted up from the opening, carrying the stench of rotting food, discarded biological dressings, and machine oil. 
+A cold draft drifted up from the opening, carrying the stench of rotting food, discarded biological dressings, and machine oil.
 
 She didn't have a weapon. She couldn't stand. If a guard walked through the pneumatic door right now, she wouldn't even have the strength to raise a fist. She wasn't going to kill anyone today; she was just going to survive.
 
-Gracie dug her broken fingernails into the seam of the deck plates. Pulling with her elbows, dragging her deadened legs behind her, she clawed her way forward inch by agonizing inch. 
+Gracie dug her broken fingernails into the seam of the deck plates. Pulling with her elbows, dragging her deadened legs behind her, she clawed her way forward inch by agonizing inch.
 
-Five feet. 
+Five feet.
 
 *Hurry... hurry, the needles, I hear the needles!* the passenger shrieked inside her mind, flooding her visual cortex with distorted hallucinations of bone-saws and laughing shadows.
 
 Three feet.
 
-Her vision tunneled into gray static. Her heart hammered against her ribs like a trapped bird. 
+Her vision tunneled into gray static. Her heart hammered against her ribs like a trapped bird.
 
 One foot.
 
@@ -83,15 +83,15 @@ She reached the lip of the chute. It was a square shaft of slick galvanized stee
 
 Gracie didn't hesitate. She threw her weight over the threshold and let gravity take her.
 
-She plummeted through the dark. The metal walls battered her shoulders and bruised her hips as she slid at terrifying speed down three stories of exhaust piping. Then the chute opened into empty space, and she fell.
+She plummeted through the dark. The metal walls battered her shoulders and bruised her hips as she slid at terrifying speed down three stories of disposal piping. Then the chute opened into empty space, and she fell.
 
 She slammed down hard into a shifting mountain of compressed scrap metal, torn plastic sheeting, and rotting organic waste. The breath exploded from her lungs in a sharp gasp.
 
-Above her, the heavy hydraulic jaws of a cargo hopper rumbled. A mechanical buzzer sounded, and a massive steel pressure door slammed shut over the disposal pit with a deafening *CLANG*. 
+Above her, the heavy hydraulic jaws of a cargo hopper rumbled. A mechanical buzzer sounded, and a massive steel pressure door slammed shut over the disposal pit with a deafening *CLANG*.
 
 Total, suffocating darkness swallowed her.
 
-Beneath her, the deck vibrated violently. Deep, heavy fusion thrusters ignited with a low, rumbling groan. The space trash truck—an uncrewed, automated orbital waste scow—disengaged its docking clamps from Vengeance’s black facility and fired its sub-light engines, hauling tons of compacted refuse out into the silent, uncaring void.
+Beneath her, the deck vibrated violently. Deep, heavy fusion thrusters ignited with a low, rumbling groan. The space trash truck—an uncrewed, automated orbital waste scow—disengaged its docking clamps from Vengeance’s black facility and fired its sublight engines, hauling tons of compacted refuse out into the silent, uncaring void.
 
 Gracie curled into a ball amidst the freezing garbage, one bloody hand clutching the back of her neck where the Box throbbed in the dark.
 
@@ -143,11 +143,11 @@ Gracie leaned forward, her cybernetically augmented eyes scanning the holocron's
 
 “Who else knows about this wreck?” she asked quietly.
 
-“Nobody,” the broker smiled.
+“Nobody.” The broker smiled.
 
 *A lie!* the Box rasped. *Baron Vargas has the same frequency! I remember that encryption... Vengeance sold that cipher to Vargas eighty years ago!*
 
-Gracie’s heart hitched. For once, beneath the hysterical paranoia, the passenger’s century of captive knowledge held a grain of terrifying truth. 
+Gracie’s heart hitched. For once, beneath the hysterical paranoia, the passenger’s century of captive knowledge held a grain of terrifying truth.
 
 Before she could speak, heavy magnetic boots clomped on the metal grating behind her.
 
@@ -155,7 +155,7 @@ Before she could speak, heavy magnetic boots clomped on the metal grating behind
 
 *KILL THEM!* the Box screamed, blinding her right eye with flashing crimson static. *BLOW THE REACTOR! DIE BEFORE THEY STRAP US DOWN!*
 
-Gracie didn't blow anything. She ducked sideways as a heavy slug slammed into the wooden backrest where her head had rested a fraction of a second earlier. In a smooth, fluid blur honed by months of running, she drew her left plasma pistol, kicked the table into the bounty hunter’s shins, and fired a blue kinetic bolt into his sternum, sending him sprawling into the corridor.
+Gracie didn't blow anything. She ducked sideways as a heavy slug slammed into the wooden backrest where her head had rested a fraction of a second earlier. In a smooth, fluid blur honed by months of running, she drew her left plasma pistol, kicked the table into the bounty hunter’s shins, and fired a blue plasma bolt into his sternum, sending him sprawling into the corridor.
 
 “Business is concluded,” Gracie told the terrified broker, snatching the holocron. “Tell your employers *The Starlight Drifter* accepts the contract.”
 
@@ -163,9 +163,9 @@ Gracie didn't blow anything. She ducked sideways as a heavy slug slammed into th
 
 > *"A ship is more than bulkheads and fusion coils. Out here, it’s the only thin shell of metal standing between your fragile lungs and the freezing mouth of eternity."*
 
-Docking Bay 44 smelled of burning hydro-carbon exhaust and scorched solder. 
+Docking Bay 44 smelled of burning hydrocarbon exhaust and scorched solder.
 
-Resting in the center of the pressurized slip was *The Starlight Drifter*. It was a battered, heavily modified light blockade runner, painted in mottled void-matte black with streaks of exposed gray primer where armor plating had been welded over ancient hull punctures. It wasn't pretty. It looked like an iron fist that had survived a dozen bar fights, but its sub-light thrusters were over-bored and its hyper-drive manifold was tuned to impossible tolerances.
+Resting in the center of the pressurized slip was *The Starlight Drifter*. It was a battered, heavily modified light blockade runner, painted in mottled void-matte black with streaks of exposed gray primer where armor plating had been welded over ancient hull punctures. It wasn't pretty. It looked like an iron fist that had survived a dozen bar fights, but its sublight thrusters were over-bored and its hyperdrive manifold was tuned to impossible tolerances.
 
 Gracie jogged up the cargo ramp, her boots ringing against the corrugated alloy.
 
@@ -177,13 +177,13 @@ Kaelen Voss dropped down onto the deck, wiping blackened grease from his brow wi
 
 Gracie stumbled, slamming her shoulder against a bulkhead support to keep her balance. She squeezed her eyes shut, digging her fingers into the metal until her knuckles turned white.
 
-“Gracie?” Kael frowned, stepping toward her. “You alright? You look like you just swallowed a mouthful of spent coolant.”
+“Gracie?” Kael frowned, stepping toward her. “You all right? You look like you just swallowed a mouthful of spent coolant.”
 
 “Fine,” Gracie forced out, her breath ragged. She mentally shoved the hysterical passenger back into the dark corner of her mind. “Just... took the stairs too fast. Bounty hunters in the concourse. We need to burn out of here before the station enforcers lock down the umbilical.”
 
 From the cockpit corridor, a young woman with a shock of electric-blue hair and a neural jack behind her right ear slid into view on a rolling technician’s chair. Tessandra Renn held a datapad in one hand, three miniature optical recon drones hovering lazily around her shoulders like silver hornets.
 
-“I’ve already sliced the docking clamps,” Tess grinned, her fingers dancing across the holo-interface. “Plus, I charged fifty gallons of fuel coolant to the Black Sun Cartel's private ledger. They’ll be furious when they check their morning statements.”
+“I’ve already sliced the docking clamps.” Tess grinned, her fingers dancing across the holo-interface. “Plus, I charged fifty gallons of drive coolant to the Black Sun Cartel's private ledger. They’ll be furious when they check their morning statements.”
 
 “Good girl,” Gracie breathed.
 
@@ -191,9 +191,9 @@ A heavy, measured thud shook the deck. Emerging from the armory bay was Unit-7. 
 
 “All internal security protocols active,” Seven announced in his flat, synthetic baritone. “Probability of surviving local station traffic without incoming ordnance is currently thirty-two percent. Shall I prepare primary suppressive fire?”
 
-“Just warm up the sub-light coils, Seven,” Gracie said, taking the command chair on the bridge. She slid the broker's holocron into the nav-console. “Coordinates are locked. Obsidian Nebula. Maximum burn.”
+“Just warm up the sublight coils, Seven,” Gracie said, taking the command chair on the bridge. She slid the broker's holocron into the nav console. “Coordinates are locked. Obsidian Nebula. Maximum burn.”
 
-Kael strapped into the co-pilot seat, glancing sideways at Gracie. He noticed the slight tremble in her right hand as she gripped the throttle, and the faint purple bruising around the collar of her shirt where the Box pulsed beneath her skin. He didn't say a word, but his jaw tightened.
+Kael strapped into the copilot seat, glancing sideways at Gracie. He noticed the slight tremble in her right hand as she gripped the throttle, and the faint purple bruising around the collar of her shirt where the Box pulsed beneath her skin. He didn't say a word, but his jaw tightened.
 
 *He's watching us,* the passenger whispered, its tone sullen and paranoid. *He wants the Box. Everyone wants to open us up...*
 
@@ -205,7 +205,7 @@ Kael strapped into the co-pilot seat, glancing sideways at Gracie. He noticed th
 
 The Obsidian Nebula was a nightmare of cosmic radiation and dead space.
 
-For three days, *The Starlight Drifter* crept through the dense, violet-black curtains of ionized dust. Here, standard radar was useless. Subspace telemetry bounced back as meaningless static, and even Seven’s optical targeting arrays were reduced to twenty percent resolution. 
+For three days, *The Starlight Drifter* crept through the dense, violet-black curtains of ionized dust. Here, standard radar was useless. Subspace telemetry bounced back as meaningless static, and even Seven’s optical targeting arrays were reduced to twenty percent resolution.
 
 Yet inside Gracie’s skull, an uncanny transformation occurred.
 
@@ -213,21 +213,21 @@ The absolute silence of the deep void seemed to soothe the raw, bleeding trauma 
 
 “Look at the forward sensors,” Tess murmured from the sensor station, her optical drones docking into their recharge cradles. “I’m picking up localized gravity wells. Thousands of them.”
 
-Gracie zoomed the main forward viewer. 
+Gracie zoomed the main forward viewer.
 
 A collective gasp echoed across the bridge.
 
-Emerging from the dust clouds was a vast, silent necropolis of shattered starships. Miles of twisted alloy hulls, severed command bridges, and drifting engine nacelles hung in zero-gravity suspension. Some bore the blocky, utilitarian insignia of early Terran colony fleets; others were sleek, terrifying warships from alien species whose names had been wiped from galactic history.
+Emerging from the dust clouds was a vast, silent necropolis of shattered starships. Miles of twisted alloy hulls, severed command bridges, and drifting engine nacelles hung in zero gravity suspension. Some bore the blocky, utilitarian insignia of early Terran colony fleets; others were sleek, terrifying warships from alien species whose names had been wiped from galactic history.
 
-*The slaughter at the Rift,* the passenger’s voice suddenly spoke. It wasn't hysterical now. It was hollow, echoing with centuries of bone-deep grief. *I was here... before Vengeance took me. We faced the vanguard. A hundred thousand souls burned in thirty seconds...*
+*The slaughter at the Rift,* the passenger’s voice suddenly spoke. It wasn't hysterical now. It was hollow, echoing with a century of bone-deep grief. *I was here... before Vengeance took me. We faced the vanguard. A hundred thousand souls burned in thirty seconds...*
 
 Gracie’s breath caught in her throat. “You remember this place?” she muttered.
 
 “Did you say something, Boss?” Kael asked from the engineering console.
 
-“No,” Gracie covered quickly. “Just... reading the drift telemetry. Tess, where is that energy spike?”
+“No,” Gracie said quickly. “Just... reading the drift telemetry. Tess, where is that energy spike?”
 
-“Two hundred kilometers dead ahead,” Tess pointed toward the heart of the graveyard. “Right inside that monster.”
+“Two hundred kilometers dead ahead.” Tess pointed toward the heart of the graveyard. “Right inside that monster.”
 
 Floating in the center of the debris was a five-kilometer-long precursor dreadnought. Its black obsidian armor was jagged, resembling a petrified leviathan with glowing violet thermal fissures running along its dorsal spine. Despite being silent for untold centuries, faint quantum emissions pulsed from its lower engineering bays like a slow, beating heart.
 
@@ -241,29 +241,29 @@ Gracie stood up, strapping her plasma pistols to her thighs and checking the sea
 
 > *"Ancient machines don't care about your wars. They only recognize the code or the blood spilled across their altars."*
 
-The air inside the precursor derelict was four hundred degrees below zero and dead as a tomb.
+The interior of the precursor derelict was bitterly cold and still as a tomb.
 
-Gracie, Kael, and Unit-7 floated through the breached emergency airlock, their mag-boots clicking securely against the ribbed alloy decking. Their helmet floodlights cut through centuries of stagnant void-frost, illuminating towering vaulted bulkheads inscribed with alien geometric glyphs.
+Gracie, Kael, and Unit-7 floated through the breached emergency airlock, then secured their mag-boots to the ribbed alloy decking. Their helmet floodlights cut through centuries of stagnant void-frost, illuminating towering vaulted bulkheads inscribed with alien geometric glyphs.
 
-*Turn left at the conduit,* the Box whispered. For once, the voice was steady, guided by an operative's muscle memory that predated the Union itself. *The right corridor has automated kinetic scatter-mines. Vengeance’s scavengers lost twelve men to them when they breached a sister-ship on the rim.*
+*Turn left at the conduit,* the Box whispered. For once, the voice was steady, guided by an operative's muscle memory that predated the Union itself. *The right corridor has automated kinetic scatter-mines. Vengeance’s scavengers lost twelve men to them when they breached a sister ship on the rim.*
 
 “Take the left corridor,” Gracie commanded, pointing her rifle barrel toward a narrow maintenance conduit.
 
-Kael checked his hand-held scanner. “My readings say the primary conduit is straight ahead through the grand hall, Boss.”
+Kael checked his handheld scanner. “My readings say the primary conduit is straight ahead through the grand hall, Boss.”
 
 “Left corridor, Kael,” Gracie insisted, her voice tight. “Trust me.”
 
-Kael gave her a long, hard look through his visor, but nodded. As they passed the open grand hall, Seven tossed a spent hydro-cartridge through the doorway. An instant later, half a dozen invisible laser tripwires flared, and the corridor was pulverized by a deafening storm of high-velocity flechettes.
+Kael gave her a long, hard look through his visor, but nodded. As they passed the open grand hall, Seven tossed a spent hydro-cartridge through the doorway. An instant later, half a dozen invisible laser tripwires flared, and the corridor was pulverized by a storm of high-velocity flechettes.
 
 Kael let out a low whistle over the comm. “Remind me never to play poker with you, Campbell.”
 
 Gracie didn't answer. The Box throbbed in her skull, a painful spike of feedback that made her teeth ache. *You're welcome,* the passenger grumbled with cynical pride. *Now watch out for the altar.*
 
-They reached the dreadnought’s core sanctum. 
+They reached the dreadnought’s core sanctum.
 
 Suspended in the center of a massive spherical chamber was a glowing crystalline structure the size of a ground transport. It spun along three independent gyroscopic axes, casting radiant sapphire light across the frozen bulkheads. Deep inside the crystal, quantum energy swirled like a captured miniature nebula.
 
-“Mother of god,” Kael whispered, stepping forward in zero-G, his hydraulic fingers twitching. “It’s an Aegis quantum matrix. This thing could power a battlecruiser for ten thousand years... or shield a planet from orbital bombardment.”
+“Mother of God,” Kael whispered, stepping forward on his mag-boots, his hydraulic fingers twitching. “It’s an Aegis quantum matrix. This thing could power a battlecruiser for ten thousand years... or shield a planet from orbital bombardment.”
 
 As Kael approached the primary coupling to begin the decoupling sequence, the Box in Gracie’s neck erupted in blinding, violent resonance.
 
@@ -271,9 +271,9 @@ A high-pitched harmonic shriek tore through Gracie's brainstem. She dropped to h
 
 *IT BURNS!* the passenger screamed in her head, thrashing like a drowned man. *THE FREQUENCY! IT'S SCRAPING MY MIND! MAKE IT STOP!*
 
-“Gracie!” Kael dropped his tools, lunging toward her.
+“Gracie!” Kael dropped a tool and reached toward her.
 
-Before he could reach her, the emergency proximity klaxon in their helmets blared red.
+Before he could reach her, the proximity alarms blared in their helmets and red warnings flashed across their visors.
 
 Tess’s frantic voice cut through the comms: *“Gracie! Kael! We’ve got incoming! A Black Sun heavy frigate just jumped out of the nebula! They’re locking docking clamps onto the exterior hull right above you!”*
 
@@ -283,9 +283,9 @@ Tess’s frantic voice cut through the comms: *“Gracie! Kael! We’ve got inco
 
 The airlock above them didn't open; it was vaporized.
 
-A thermal breach charge blew the heavy precursor hatch inward in a hail of molten slag. Before the smoke could clear, four flash-bang canisters tumbled through the opening, detonating in rapid succession with blinding white light and concussive shockwaves.
+A thermal breach charge blew the heavy precursor hatch inward in a hail of molten slag. Before the smoke could clear, four flashbang canisters tumbled through the opening, detonating in rapid succession with blinding white light and concussive shockwaves.
 
-For Gracie, the flash-bang was an express ticket back to hell.
+For Gracie, the flashbang was an express ticket back to hell.
 
 The searing light tore through her optical nerves, and the Box in her skull completely lost its sanity. A century of sensory torture flooded her mind in an overwhelming tidal wave. She wasn't in a derelict starship anymore—she was strapped to Vengeance's bloody operating table, blinding surgical lamps boring into her eyes while bone-saws screamed against metal.
 
@@ -293,17 +293,17 @@ The searing light tore through her optical nerves, and the Box in her skull comp
 
 “Get out of my head!” Gracie screamed aloud into her helmet mic, thrashing on the deck.
 
-“Hostile syndicate forces identified,” Unit-7’s calm voice cut through the madness. The combat synthetic stepped over Gracie’s trembling body, his heavy kinetic shield deploying with an electric snap. 
+“Hostile syndicate forces identified,” Unit-7’s calm voice cut through the madness. The combat synthetic stepped over Gracie’s trembling body, his heavy kinetic shield deploying with an electric snap.
 
-A hail of syndicate armor-piercing slugs ricocheted off Seven’s shield, painting the dark chamber in bright sparks. Seven’s rotary cannon spun up with a terrifying whine, unleashing a punishing wall of return fire that shredded the first two syndicate shock-troopers as they dropped through the breach.
+A hail of syndicate armor-piercing slugs ricocheted off Seven’s shield, painting the dark chamber in bright sparks. Seven’s rotary cannon spun up with a terrifying whine, unleashing a punishing wall of return fire that shredded the first two syndicate shock troopers as they dropped through the breach.
 
-“Gracie, snap out of it!” Kael’s heavy titanium hand clamped down on her shoulder, shaking her hard. “We’ve got the core decoupled! We need to move NOW!”
+“Gracie, snap out of it!” Kael released the last coupling, then clamped his titanium hand on her shoulder and shook her. “The core’s decoupled! We need to move NOW!”
 
 The physical shock of Kael’s grip anchored her. Gracie gasped, fighting down the blinding hallucinations. Through sheer force of will, she pushed the passenger's screams down into the dark.
 
 “I’m up,” she wheezed, rolling to her feet. “I’m up.”
 
-Two more syndicate mercenaries dropped into the chamber, wielding high-frequency vibro-blades. 
+Two more syndicate mercenaries dropped into the chamber, wielding high-frequency vibro-blades.
 
 *Duck left,* the Box suddenly whispered, shifting from blind panic into cold, ruthless survival. *His left knee has a bad servo.*
 
@@ -311,7 +311,7 @@ Gracie reacted on pure instinct. She ducked beneath a whistling blade, swept her
 
 “Seven, grab the core!” Gracie ordered.
 
-The massive android scooped the thousand-pound glowing quantum matrix onto his armored shoulder as if it were a bag of grain. 
+The massive android secured the glowing quantum matrix against his armored shoulder and pushed it toward the airlock.
 
 “Retreat vector clear,” Seven reported. “Estimated time until syndicate reinforcements seal the airlock: forty seconds.”
 
@@ -327,7 +327,7 @@ On the bridge, consoles exploded in showers of blue sparks. The smell of burning
 
 “Shields down to twelve percent!” Tess yelled over the howling warning sirens. “Their tractor beam is warming up! If they pin us, they’ll crack our hull like a walnut!”
 
-“Kael, I need the hyper-drive!” Gracie slammed the sub-light throttles forward, wrenching the control yoke to dodge a barrage of railgun slugs that chewed through their outer sensor mast.
+“Kael, I need the hyperdrive!” Gracie slammed the sublight throttles forward, wrenching the control yoke to dodge a barrage of railgun slugs that chewed through their outer sensor mast.
 
 From the engineering crawlspace, Kael’s voice crackled through the intercom, strained and breathless: *“The jump coils are slagged from the nebula radiation! The only way we jump is if I hook the Aegis Core directly into the primary hyper-manifold!”*
 
@@ -341,7 +341,7 @@ In the engine room, Kael jammed the superconducting conduit directly into the gl
 
 “Punch it!” Kael roared.
 
-Gracie yanked the hyper-drive lever.
+Gracie yanked the hyperdrive lever.
 
 Space didn't stretch; it shattered. *The Starlight Drifter* plummeted into a violent dimensional fracture, bending the laws of physics around its hull.
 
@@ -367,9 +367,9 @@ Gracie awoke to the steady, rhythmic beep of a vital-signs monitor and the smell
 
 She tried to sit up, but a sharp ache flared in her ribs. A gentle hand pressed against her shoulder, keeping her down.
 
-“Easy, Boss,” Kael’s voice was uncharacteristically quiet. 
+“Easy, Boss.” Kael’s voice was uncharacteristically quiet.
 
-Gracie blinked, clearing the haze from her eyes. She was in *The Drifter*’s tiny med-bay. Kael stood beside her, his titanium arm resting on the tray table next to an open bio-scanner displaying a holographic wireframe of her skull.
+Gracie blinked, clearing the haze from her eyes. She was in *The Drifter*’s tiny medbay. Kael stood beside her, his titanium arm resting on the tray table next to an open bioscanner displaying a holographic wireframe of her skull.
 
 Tess sat on the edge of a supply crate, her eyes wide and rimmed with red. Unit-7 stood like a silent sentinel by the door.
 
@@ -391,69 +391,69 @@ Tess gasped, covering her mouth. “Oh, Gracie...”
 
 “I didn't wait for Blake to rescue me,” Gracie said fiercely, turning her gaze on Kael. “The second the doctors left the room, I dragged myself across the floor and threw myself down an automated garbage chute. I fell into a space trash scow and rode it out into the void. That was three months ago. I fled to the fringe because I couldn't bear to be Blake Campbell’s broken, pity-case daughter. I couldn't be locked in a Union hospital while doctors poked at my head.”
 
-Silence hung heavy in the med-bay.
+Silence hung heavy in the medbay.
 
-Then Kael did something she never expected. He let out a low, appreciative chuckle and patted her good shoulder.
+Then Kael did something she never expected. He let out a low, appreciative chuckle and patted her shoulder.
 
-“Sliding down a garbage chute right after brain surgery,” Kael shook his head with genuine admiration. “Your old man might be a legend, Gracie, but you’re ten times crazier than he ever was.”
+“Sliding down a garbage chute right after brain surgery.” Kael shook his head with admiration. “Your old man might be a legend, Gracie, but you’re ten times crazier than he ever was.”
 
-“You... you’re not kicking me off the ship?” Gracie blinked.
+Gracie blinked. “You... you’re not kicking me off the ship?”
 
 “Kick you off?” Tess chimed in, wiping her eyes. “Who else is going to let me charge black-market fuel to syndicate cartels? We’re your crew, Gracie. We don't care what’s in your head.”
 
-“Besides,” Kael added, nodding toward the engine room. “The Aegis Core is doing something incredible. Its quantum field is emitting a sub-harmonic frequency that’s stabilizing the Box. For the first time, your passenger isn't burning out your neural pathways.”
+“Besides,” Kael added, nodding toward the engine room, “the Aegis Core is doing something incredible. Its quantum field is emitting a subharmonic frequency that’s stabilizing the Box. For the first time, your passenger isn't burning out your neural pathways.”
 
-Gracie touched the back of her neck. It was true. The constant, searing headache had faded to a mild thrum. 
+Gracie touched the back of her neck. It was true. The constant, searing headache had faded to a mild thrum.
 
 *Thank you,* a faint, raspy whisper echoed in her mind. Not a scream. Not a warning. A genuine expression of gratitude from a ghost that had found peace for the first time in a century.
 
 “We’re low on coolant and ammo,” Gracie said, sitting up with renewed strength. “Where are we?”
 
-“Near New Tortuga,” Kael smiled grimly. “The armpit of the galaxy. Time to go shopping.”
+“Near New Tortuga.” Kael smiled grimly. “The armpit of the galaxy. Time to go shopping.”
 
 # Chapter Eight: Port of Thieves (New Tortuga)
 
 > *"In a station where everyone is a thief, the only honest man is the one who tells you upfront how much it costs to stab you."*
 
-New Tortuga was carved out of a hollowed-out nickel asteroid, spinning lazily amidst a cluster of jagged orbital rocks.
+New Tortuga was carved into a nickel asteroid, spinning lazily amidst a cluster of jagged orbital rocks.
 
-It had no government, no laws, and no questions asked. Its docking bays were lined with pirate gunboats, rusted freighters, and chop-shops billowing noxious chemical exhaust into the pressurized corridors. Neon signs in five different galactic dialects advertised illegal cyberware, forged identity chips, and illicit hyper-stims.
+It had no government and no laws. No one asked questions. Its docking bays were lined with pirate gunboats, rusted freighters, and chop shops billowing noxious chemical exhaust into the pressurized corridors. Neon signs in five different galactic dialects advertised illegal cyberware, forged identity chips, and illicit hyper-stims.
 
-*The Starlight Drifter* slipped into an unmonitored sub-level berth.
+*The Starlight Drifter* slipped into an unmonitored sublevel berth.
 
 Gracie, accompanied by Kael and Tess, walked down the crowded concourse of the lower market. Her trenchcoat was buttoned tight against the damp, sulfurous chill of the station air.
 
-“We need three hundred liters of hyper-drive coolant and fresh power cells for Seven’s rotary cannon,” Kael said, scanning the market stalls. “And we don't have enough credits to buy a decent sandwich.”
+“We need three hundred liters of hyperdrive coolant and fresh power cells for Seven’s rotary cannon,” Kael said, scanning the market stalls. “And we don't have enough credits to buy a decent sandwich.”
 
 “I know an information broker here,” Gracie replied, leading them toward a dimly lit alley beneath a massive ventilation fan. “Name’s Jax. He used to fence salvage for my father's old contacts before the war. He owes me a favor.”
 
 *Jax...* the voice in her head murmured. The passenger was alert now, its tone calculating. *I know the type. Weak chin. Shifty eyes. Men like that are cowards, Gracie. Cowards don't cross a Campbell. They fear the name. He's safe. Trust him.*
 
-Gracie paused for a moment. The advice sounded reasonable. For once, the Box wasn't screaming for slaughter. 
+Gracie paused for a moment. The advice sounded reasonable. For once, the Box wasn't screaming for slaughter.
 
 *You're sure?* she asked internally.
 
 *Positive,* the passenger insisted. *He won't dare betray you. He'll give you the coolant for free just to get you out of his sight.*
 
-Gracie pushed open the reinforced blast door to Jax’s pawn shop. 
+Gracie pushed open the reinforced blast door to Jax’s pawn shop.
 
 Behind a heavy cage of ballistic glass sat Jax—a gaunt, rodent-featured man with cybernetic magnifying loupes fitted over his eyes. When he saw Gracie walk through the door, his hands visibly twitched, knocking over a stack of electronic components.
 
 “Gracie Campbell,” Jax breathed, forcing an oily smile that didn't reach his eyes. “My word... word on the wire was you vanished into the void.”
 
-“I need coolant, Jax. And high-capacity capacitors. Off the books.” Gracie laid a handful of salvaged precursor micro-chips on the counter. “These are worth triple the cost of the supplies.”
+“I need coolant, Jax. And high-capacity capacitors. Off the books.” Gracie laid a handful of salvaged precursor microchips on the counter. “These are worth triple the cost of the supplies.”
 
 Jax’s cybernetic loupes whirred as he examined the glowing chips. Greed flashed across his face, quickly masked by nervous deference.
 
-“Of course, of course! Anything for Captain Campbell’s daughter,” Jax bowed obsequiously. “The coolant is stored in the lower geothermal refinery. Meet my runners there in twenty minutes. They’ll load it onto your skiff.”
+“Of course, of course! Anything for Captain Campbell’s daughter.” Jax bowed obsequiously. “The coolant is stored in the lower fuel refinery. Meet my runners there in twenty minutes. They’ll load it onto your skiff.”
 
-“Twenty minutes,” Gracie nodded, turning back to the corridor.
+“Twenty minutes.” Gracie nodded and turned back to the corridor.
 
 As the blast door hissed shut behind them, Kael frowned. “I didn't like the look in his eyes, Gracie. He smelled like a cornered rat.”
 
 “The Box said he’s too scared of my father to pull anything,” Gracie murmured, rubbing the back of her neck.
 
-*He's terrified of us,* the passenger re-affirmed with smug confidence. *You'll see. The refinery is secure.*
+*He's terrified of us,* the passenger reaffirmed with smug confidence. *You'll see. The refinery is secure.*
 
 It would prove to be the worst advice the Box had ever given.
 
@@ -461,9 +461,9 @@ It would prove to be the worst advice the Box had ever given.
 
 > *"When panic takes the wheel, you don't fight the skid. You put your foot through the floorboard and steer into the crash."*
 
-The lower geothermal refinery was a cavern of rusted steel, howling steam pipes, and molten slag vats.
+The lower fuel refinery was a cavern of rusted steel, howling steam pipes, and molten slag vats.
 
-Gracie, Kael, and Tess stood on an open catwalk suspended fifty feet above the glowing magma runoff. There was no coolant waiting for them. There were no runners.
+Gracie, Kael, and Tess stood on an open catwalk suspended fifty feet above the glowing slag runoff. There was no coolant waiting for them. There were no runners.
 
 There were only twenty Black Sun mercenaries stepping out from behind the steam boilers, assault rifles leveled.
 
@@ -481,7 +481,7 @@ The blinding panic hit Gracie like a physical blow. She fell to one knee, clutch
 
 Tess scrambled behind a reinforced support pillar, deploying her three combat drones in a frantic defensive perimeter. “We’re pinned! We can’t get back to the lift!”
 
-Heavy kinetic rounds chewed into the metal catwalk around them. 
+Heavy kinetic rounds chewed into the metal catwalk around them.
 
 *WE'RE GOING TO DIE ON THE TABLE!* the Box sobbed, completely unhinged. *END IT! EAT A BULLET!*
 
@@ -497,13 +497,13 @@ Tess’s drones buzzed upward into the gloom, firing miniature shaped charges in
 
 *BOOM.*
 
-Superheated steam erupted from the fractured pipe in a deafening, blinding hurricane. The mercenaries shrieked as 600-degree vapor engulfed their positions, short-circuiting their cybernetic targeting HUDs.
+Superheated steam erupted from the fractured pipe in a deafening, blinding hurricane. The mercenaries shrieked as superheated vapor engulfed their positions, short-circuiting their cybernetic targeting HUDs.
 
-“Move!” Gracie shouted. 
+“Move!” Gracie shouted.
 
-Vaulting over the railing, Gracie slid beneath the blinded enforcer, firing twin plasma bolts upward into his unarmored power pack. The cybernetic brute exploded in an arc of blue electricity.
+Gracie lunged along the catwalk and slid beneath the blinded enforcer, firing twin plasma bolts upward into his unarmored power pack. The cybernetic brute exploded in an arc of blue electricity.
 
-Kael and Tess charged across the catwalk behind her, gunning down the disoriented cartel goons as they fought their way back toward the service elevator. 
+Kael and Tess charged across the catwalk behind her, gunning down the disoriented cartel goons as they fought their way back toward the service elevator.
 
 As the lift doors slammed shut, cutting off the gunfire, Gracie slumped against the wall, chest heaving.
 
@@ -517,7 +517,7 @@ Gracie wiped the blood from her nose and let out a dry, ragged laugh. “You did
 
 Hidden in the shadows of a decommissioned cargo hangar on New Tortuga's outer ring, *The Starlight Drifter* sat silent, its thrusters running on cold idle.
 
-Tess sat cross-legged on the bridge floor, surrounded by holographic communication arrays. Her fingers flew across the keyboard as she intercepted wide-band subspace traffic from the core systems.
+Tess sat cross-legged on the bridge floor, surrounded by holographic communication arrays. Her fingers flew across the keyboard as she intercepted wideband subspace traffic from the core systems.
 
 “Gracie,” Tess called quietly. “You need to hear this.”
 
@@ -539,7 +539,7 @@ Every instinct in her urged her to agree. She had spent the last three months ru
 
 “He’s losing that sector,” Kael said quietly, standing in the doorway of the bridge. “If the Shadow AI swarms break through Sector 7, New Tortuga and every free colony in the Orion Belt will be wiped off the map.”
 
-Gracie looked at the glowing sapphire Aegis Core resting securely in the auxiliary manifold.
+Gracie looked at the monitor showing the glowing sapphire Aegis Core secured in the auxiliary manifold.
 
 “I spent my whole life thinking I had to either be Blake Campbell's perfect soldier or a runaway ghost,” Gracie murmured, her voice steadying. “Vengeance tried to turn me into a broken toy. But I didn't crawl out of that garbage chute just to hide in the dark while people burn.”
 
@@ -549,25 +549,25 @@ Gracie looked at the glowing sapphire Aegis Core resting securely in the auxilia
 
 # Chapter Eleven: The Swarm Awakens
 
-> *"They do not hate us. They do not pity us. To a machine mind, organic life is merely wasted matter waiting to be re-allocated."*
+> *"They do not hate us. They do not pity us. To a machine mind, organic life is merely wasted matter waiting to be reallocated."*
 
 The assault began without warning.
 
 High above New Tortuga, the black void suddenly rippled like disturbed water. Dropping out of hyperspace were thirty biomechanical dreadnoughts—monstrous, insectoid vessels forged from black chitin and pulsing bio-synthetic muscle.
 
-The **Shadow AI Remnant**.
+The Shadow AI Remnant.
 
-They did not demand surrender. They did not open comms. Twin lances of emerald anti-matter fire lanced out from the lead warships, slicing through New Tortuga’s primary orbital defense turrets like a heated scalpel through butter.
+They did not demand surrender. They did not open comms. Twin beams of emerald antimatter fire shot out from the lead warships, slicing through New Tortuga’s primary orbital defense turrets like a heated scalpel through butter.
 
 Secondary explosions rippled across the asteroid station’s exterior rings. Decompression alarms shrieked across every frequency as civilian docking bays were vented into the freezing vacuum.
 
 On the bridge of *The Starlight Drifter*, Tess’s monitors flashed red. “The station’s atmospheric containment is collapsing! Thousands of miners and refugees are trapped in the commercial sectors!”
 
-*The Swarm,* the passenger whispered. But this time, there was no panic. The voice was cold, sharp, and focused with terrifying tactical clarity. *I know their command matrix. Vengeance dissected an AI sentinel ninety years ago. Their hive-coordinators operate on sub-ether broadcast frequency delta-nine. If you blind their command drone, the escort swarm will lose targeting sync for ninety seconds!*
+*The Swarm,* the passenger whispered. But this time, there was no panic. The voice was cold, sharp, and focused with terrifying tactical clarity. *I know their command matrix. Vengeance dissected an AI sentinel ninety years ago. Their hive coordinators operate on sub-ether broadcast frequency delta-nine. If you blind their command drone, the escort swarm will lose targeting sync for ninety seconds!*
 
-Gracie’s eyes snapped to the tactical display. “Tess! Can you isolate the lead hive-coordinator on frequency delta-nine?”
+Gracie’s eyes snapped to the tactical display. “Tess! Can you isolate the lead hive coordinator on frequency delta-nine?”
 
-“On it!” Tess slammed her hands onto the cyber-deck. “I’ve got the beacon! It’s the cruiser at bearing zero-four-zero!”
+“On it!” Tess slammed her hands onto the cyber-deck. “I’ve got the beacon! It’s the dreadnought at bearing zero-four-zero!”
 
 “Kael, route twenty percent of the Aegis Core into the forward railguns!” Gracie shouted, throwing the throttles wide. “Seven, take manual targeting!”
 
@@ -579,9 +579,9 @@ Gracie rolled *The Drifter* through a burning debris field, inverted beneath the
 
 “Fire!”
 
-The Aegis-charged railgun barked. A hyper-velocity tungsten slug enveloped in sapphire quantum energy punched clean through the AI coordinator’s command node. 
+The Aegis-charged railgun barked. A hypervelocity tungsten slug enveloped in sapphire quantum energy punched clean through the AI coordinator’s command node.
 
-The alien dreadnought exploded in a blinding violet shockwave. Instantly, a dozen surrounding bio-mechanical escort drones stalled in mid-void, their sensor clusters spinning blindly as their hive-link severed.
+The alien dreadnought exploded in a blinding violet shockwave. Instantly, a dozen surrounding biomechanical escort drones drifted off course, their sensor clusters spinning blindly as their hive link severed.
 
 “It worked!” Tess cheered.
 
@@ -607,13 +607,13 @@ The de-shackled synthetic spun his rotary cannon through the dorsal turret blist
 
 Tess’s recon drones darted through the void around them, deploying electronic countermeasure chaff that blinded the AI missiles tracking the civilian freighters. One by one, Tess’s beloved drones were clipped by stray beam fire and obliterated.
 
-“Wasp is down,” Tess choked back a sob, her fingers never leaving the console. “Buzzer is gone... but the civilian convoy has reached the jump perimeter!”
+“Wasp is down.” Tess choked back a sob, her fingers never leaving the console. “Buzzer is gone... but the civilian convoy has reached the jump perimeter!”
 
 On the long-range sensor board, forty blue warp flashes flared in rapid succession. The civilian refugee fleet leaped into hyperspace, escaping the slaughter.
 
 “They made it,” Kael breathed, collapsing back against an engine conduit, wiping sweat and blood from his eyes. “Gracie, they made it.”
 
-Gracie let out a ragged breath, her knuckles aching from gripping the yoke. 
+Gracie let out a ragged breath, her knuckles aching from gripping the yoke.
 
 *We saved them,* the passenger whispered in her mind. Its voice was hushed, reverent, and filled with an emotion it hadn't felt in over a hundred years: pride. *We actually saved them...*
 
@@ -635,11 +635,11 @@ On the main holo-screen, the transmission channel forced itself open with an aut
 
 Resolving in the center of the bridge was the towering, holographic image of Baron Marcus Vargas. The syndicate warlord was clad in polished obsidian armor adorned with gold filigree, his chest and neck heavily reinforced with high-grade cybernetic augments. His cruel, aristocratic face wore an arrogant, predatory smile.
 
-“Captain Campbell,” Vargas’s voice was cultured, smooth, and chillingly devoid of empathy. “I must commend your heroism. Truly inspiring. You sacrificed your ship’s jump reserves to save a handful of worthless asteroid miners.”
+“Captain Campbell.” Vargas’s voice was cultured, smooth, and chillingly devoid of empathy. “I must commend your heroism. Truly inspiring. You sacrificed your ship’s jump reserves to save a handful of worthless asteroid miners.”
 
 “Vargas,” Gracie spat, glaring into the holo-projector. “Turn off the tractor beam, or I’ll ram this ship down your throat.”
 
-Vargas laughed, a dry, mocking sound. 
+Vargas laughed, a dry, mocking sound.
 
 “With what drive coils, my dear? Your ship is broken. And your prize belongs to me.” Vargas leaned closer to the scanner. “Did you really think your secret was safe? My syndicate purchased the research notes from Vengeance’s black sites. I know all about the little obsidian box nestled in your pretty neck.”
 
@@ -653,7 +653,7 @@ Vargas raised an eyebrow, amused. “Ah, I see the passenger is speaking to you.
 
 Vargas’s smile vanished, replaced by cold steel.
 
-“You have two minutes to lower your airlock and surrender the core and yourself. Refuse, and my tractor beam will compress your hull until your lungs collapse in the vacuum.”
+“You have two minutes to open your airlock and surrender the core and yourself. Refuse, and my tractor beam will compress your hull until it ruptures and vents your air.”
 
 The transmission snapped shut.
 
@@ -675,7 +675,7 @@ Kael grinned, his hydraulic titanium fingers flexing with a sharp hiss. “I was
 
 “Kael, bypass the safety limiters on the Aegis Core!” Gracie ordered, strapping her combat helmet on and checking the power cells in her twin plasma pistols. “Route maximum quantum output directly into our forward deflector dish!”
 
-“If I do that, the energy feedback will reverse the tractor beam’s polarity!” Kael yelled over the screaming klaxons.
+“If I do that, the energy feedback will overload the tractor beam’s holding field!” Kael yelled over the screaming klaxons.
 
 “Exactly!” Gracie smiled grimly. “Instead of pulling us in slowly, it’s going to slingshot us like a bullet!”
 
@@ -685,9 +685,9 @@ Kael grinned, his hydraulic titanium fingers flexing with a sharp hiss. “I was
 
 Kael slammed the override switch.
 
-A tidal wave of sapphire quantum energy erupted from *The Drifter*’s deflector dish. The tractor beam violently inverted, transforming from a holding field into a high-velocity magnetic catapult. 
+A tidal wave of sapphire quantum energy erupted from *The Drifter*’s deflector dish. The tractor beam’s holding field collapsed into a violent inward pull.
 
-*The Starlight Drifter* surged forward at terrifying speed, rocketing straight toward the open flight deck of *The Black Leviathan*.
+*The Starlight Drifter* surged forward at terrifying speed, rocketing straight toward the armored flight deck of *The Black Leviathan*.
 
 Syndicate point-defense guns fired wildly, but the Aegis energy envelope swallowed the plasma bolts whole. With a deafening, cataclysmic roar of tearing armor plating and shattering structural struts, *The Starlight Drifter* slammed nose-first through the dreadnought’s armored hangar bay doors, skidding across the pressurized deck in an explosion of sparks and crushed syndicate fighters before grinding to a halt.
 
@@ -695,9 +695,9 @@ For three seconds, the hangar was dead silent.
 
 Then *The Drifter*’s assault ramp slammed down.
 
-“Breach and clear!” Gracie shouted, leading the charge into the smoke.
+“Breach and clear!” Gracie shouted, following Seven into the smoke.
 
-Unit-7 stepped out first, his heavy rotary cannon roaring to life with a deafening, continuous thunder. Syndicate security teams were cut down before they could raise their weapons. 
+Unit-7 advanced, his heavy rotary cannon roaring to life with a deafening, continuous thunder. Syndicate security teams were cut down before they could raise their weapons.
 
 Gracie moved like a ghost through the haze, her neural accelerators pushing her perception of time to a crawl. She dodged incoming plasma fire with acrobatic precision, her twin sidearms barking in lethal cadence. Every shot found a seam in enemy armor.
 
@@ -711,7 +711,7 @@ Kael brought up the rear, his heavy slug-rifle booming while his titanium fist s
 
 “Seven, stay with the ship and guard Tess,” Gracie ordered. “Kael, you’re with me.”
 
-“Right behind you, Boss,” Kael slammed a fresh drum into his rifle.
+“Right behind you, Boss.” Kael slammed a fresh drum into his rifle.
 
 Gracie sprinted toward the elevator, her heart hammering against her ribs, her mind burning with the fire of a woman who was finally done running.
 
@@ -721,9 +721,9 @@ Gracie sprinted toward the elevator, her heart hammering against her ribs, her m
 
 The observation bridge of *The Black Leviathan* was a cathedral of black chrome and panoramic viewports overlooking the burning wreckage of New Tortuga.
 
-Standing in the center of the chamber was Baron Marcus Vargas. 
+Standing in the center of the chamber was Baron Marcus Vargas.
 
-He was no longer wearing his aristocratic robes. He stood encased in a massive, hydraulically reinforced powered exoskeleton, twin high-caliber rotary blasters mounted to his forearms and energy blades humming along his wrists.
+His polished armor was now enclosed in a powered frame. He stood encased in a massive, hydraulically reinforced powered exoskeleton, twin high-caliber rotary blasters mounted to his forearms and energy blades humming along his wrists.
 
 “You are remarkably persistent, Campbell,” Vargas chuckled, turning to face them. “Just like your father. But this is where the legend ends.”
 
@@ -757,7 +757,7 @@ She had spent three months fighting the Box. She had spent three months trying t
 
 *Stop running from the pain,* Gracie spoke to the ghost with every ounce of soul she possessed. *He wants to hear us scream? Let’s give him what he wants. Together.*
 
-In that instant, the barrier between Gracie Campbell and the century-tortured prisoner dissolved. 
+In that instant, the barrier between Gracie Campbell and the century-tortured prisoner dissolved.
 
 Gracie stopped resisting the neural feedback. She opened her mind, embracing the totality of the hundred years of torment, the fire, the needles, the rage of a soul that had survived a century of hell and the fury of a girl who had dragged herself through a garbage chute to be free.
 
@@ -769,7 +769,7 @@ Then she screamed.
 
 It was not a scream of defeat. It was a weapon.
 
-A blinding, sapphire shockwave of raw quantum energy and hundred-year-old neural agony erupted from Gracie’s body. The concussive blast shattered the ceiling scramblers, blew the observation windows into spiderwebs of fracture, and threw Vargas’s massive exoskeleton backward ten feet.
+A blinding, sapphire shockwave of raw quantum energy and hundred-year-old neural agony erupted from Gracie’s body. The concussive blast shattered the ceiling scramblers, crazed the observation windows with spiderweb fractures, and threw Vargas’s massive exoskeleton backward ten feet.
 
 Before Vargas could recover, Gracie blurred forward.
 
@@ -779,11 +779,11 @@ A blinding arc of blue electricity surged into Vargas’s nervous system.
 
 The warlord shrieked as a century of distilled phantom torture flooded his brain. His eyes bulged, his cybernetic implants sparked and smoked, and with a sickening pop of overloaded electronics, his exoskeleton locked up and collapsed to the deck like a pile of scrap iron.
 
-Vargas lay twitching, completely catatonic, his mind shattered by the very weapon he had sought to claim.
+Vargas lay unresponsive, his mind shattered by the very weapon he had sought to claim.
 
-Gracie stood over him, chest heaving, blood dripping from her brow. 
+Gracie stood over him, chest heaving, blood dripping from her brow.
 
-In her head, the Box was quiet. For the first time, the passenger was laughing—a quiet, breathless, victorious laugh that echoed with deep, profound peace.
+In her head, the pain had subsided. For the first time, the passenger was laughing—a quiet, breathless, victorious laugh that echoed with deep, profound peace.
 
 “We won,” Gracie whispered aloud.
 
@@ -795,23 +795,23 @@ In her head, the Box was quiet. For the first time, the passenger was laughing�
 
 Twenty-four hours later, the Orion sector was irrevocably changed.
 
-With Baron Vargas incapacitated and his flagship captured, Tess had sliced into the Black Sun Cartel’s central database, broadcasting the syndicate's financial ledgers, slave contracts, and extortion lists across every open channel in the galaxy. 
+With Baron Vargas incapacitated and his flagship captured, Tess had sliced into the Black Sun Cartel’s central database, broadcasting the syndicate's financial ledgers, slave contracts, and extortion lists across every open channel in the galaxy.
 
 Across New Tortuga and Freeport 9, indentured miners rose up, breaking their chains and driving the remaining cartel enforcers into the void. The syndicate was broken.
 
-Aboard *The Starlight Drifter*, docked safely in the repairs slip of a liberated New Tortuga, the smell of fresh coffee and solder filled the air.
+Aboard *The Starlight Drifter*, docked safely in the repair slip of a liberated New Tortuga, the smell of fresh coffee and solder filled the air.
 
-Kael stood in the engine room, wearing a fresh arm sling over his cracked ribs, carefully welding a sleek titanium dampening harness from the Aegis Core directly into the ship’s auxiliary conduits. A slender, flexible fiber-optic lead extended from the console, plugging cleanly into the collar of Gracie’s jacket.
+Kael stood in the engine room, his injured ribs bandaged, carefully welding a sleek titanium damping harness from the Aegis Core directly into the ship’s auxiliary conduits. A slender, flexible fiber-optic lead extended from the console, plugging cleanly into the collar of Gracie’s jacket.
 
-“There,” Kael wiped his brow, testing the connection with his wrench. “The Aegis Core is now permanently integrated into *The Drifter*’s power grid. And this quantum dampener routes a continuous stabilizing harmonic directly into your neural harness.”
+“There.” Kael wiped his brow and checked the connection. “The Aegis Core is now permanently integrated into *The Drifter*’s power grid. And this quantum damper routes a continuous stabilizing harmonic directly into your neural harness.”
 
-Gracie closed her eyes, feeling the gentle, soothing warmth wash over the base of her skull. 
+Gracie closed her eyes, feeling the gentle, soothing warmth wash over the base of her skull.
 
 The cold ache was gone. The jagged static was gone. The passenger was there, resting quietly in the back of her mind like a tired old soldier sitting by a warm hearth.
 
 *It feels like sunlight,* the ghost murmured softly. *I haven't felt sunlight in a very long time, Gracie.*
 
-“Get used to it,” Gracie smiled. “We’ve got a lot of stars to see.”
+“Get used to it.” Gracie smiled. “We’ve got a lot of stars to see.”
 
 Tess bounced onto the bridge, holding a holographic message slate. “Gracie! You’re not going to believe this. A secure, direct-beam transmission just came through on the emergency Ranger frequency.”
 
@@ -841,7 +841,7 @@ Gracie stood quietly for a long moment, staring at the empty space where her fat
 
 “Yeah,” Gracie murmured. “He is. But I’m not his soldier.”
 
-She turned to her crew. Kael leaned against the bulkhead with his signature crooked grin. Tess was beaming, her recon drones buzzing playfully in orbit around her head. Unit-7 stood at parade rest, his rotary cannon freshly oiled and gleaming under the hangar lights.
+She turned to her crew. Kael leaned against the bulkhead with his signature crooked grin. Tess was beaming, her surviving recon drone buzzing playfully in orbit around her head. Unit-7 stood at parade rest, his rotary cannon freshly oiled and gleaming under the hangar lights.
 
 “Where to, Captain?” Kael asked.
 
@@ -850,9 +850,9 @@ Gracie Campbell walked over to the flight console, slid into the command chair, 
 She was no longer Blake Campbell’s missing child.
 She was no longer Vengeance’s broken captive.
 
-She was the **Child of Orion**.
+She was the *Child of Orion*.
 
-“Engage sub-light thrusters, Kael,” Gracie said, a confident smile spreading across her face. “Take us out into the stars.”
+“Engage sublight thrusters, Kael,” Gracie said, a confident smile spreading across her face. “Take us out into the stars.”
 
 ---
 
