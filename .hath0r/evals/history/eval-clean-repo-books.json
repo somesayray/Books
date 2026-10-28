@@ -1,13 +1,13 @@
 {
   "schema_version": "hath0r.evals.scorecard/v1",
   "rule_id": "CR-TASK-EVAL-001",
-  "eval_id": "eval-20261028-152903-1ef9c6",
+  "eval_id": "eval-20261028-181401-10913d",
   "task_id": "clean-repo-books",
   "issue_number": null,
   "repo_name": "Books",
   "branch": "development",
-  "evaluated_at": "2026-10-28T15:29:03.637463+00:00",
-  "duration_ms": 513.81,
+  "evaluated_at": "2026-10-28T18:14:01.514427+00:00",
+  "duration_ms": 477.2,
   "passed_gate": true,
   "r_task": 1.0,
   "min_reward_threshold": 0.8,
@@ -42,7 +42,7 @@
         },
         "memory_compounded": {
           "passed": true,
-          "compounded_nodes_count": 7,
+          "compounded_nodes_count": 8,
           "session_read_verified": true,
           "session_write_verified": true,
           "hashes_verified": true,
@@ -64,13 +64,13 @@
       "estimated_usd": 0.0,
       "max_usd": 0.25,
       "session_id": "sess-20261021-200622-8468e5",
-      "session_reads": 3,
-      "session_writes": 7,
-      "session_bytes": 1724,
+      "session_reads": 6,
+      "session_writes": 12,
+      "session_bytes": 1881,
       "within_capsule_budget": true,
-      "latency_ms": 155.36,
-      "taguchi_quality_loss": 0.0003,
-      "snr_db": 22.19
+      "latency_ms": 114.04,
+      "taguchi_quality_loss": 0.0002,
+      "snr_db": 24.88
     },
     "adversarial": {
       "score": 1.0,
@@ -88,7 +88,7 @@
       "task_id": "clean-repo-books",
       "issue_number": null,
       "active_focus": "Provisioning CR-TASK-EVAL-001 for Books",
-      "compounded_nodes_count": 7,
+      "compounded_nodes_count": 8,
       "consensus_score": 1.0
     }
   },
@@ -96,5 +96,5 @@
   "observability_sync": {
     "mode": "pending"
   },
-  "content_hash": "sha256:8f079b18f1d581c7a2c0a0dca7a4324e5b3beb57aaf21de8fd5f8be99904ac66"
+  "content_hash": "sha256:84775ebe35b827881d985c476d6828ed561216700c79e029a52e922edde49ce8"
 }
