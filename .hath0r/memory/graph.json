@@ -165,7 +165,51 @@
       "updated_at": "2026-10-28T14:21:16.418055+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:17f0f84752e590a5fb63e77604704eac8a525cd6a9f043279517f6735d0b9525"
+          ".hath0r/evals/latest.json": "sha256:01965334b1278cd06f783f9279a2ee1e93405c5cdb6b36b3d64a482bb709c001"
+        }
+      }
+    },
+    {
+      "id": "episode:clean-repo-books",
+      "type": "episode",
+      "label": "Clean Repo Lifecycle (Books)",
+      "content": "Executed 13-step clean-repo hygiene, branch merges, and knowledge sync for Books.",
+      "importance": 0.75,
+      "tags": [
+        "clean-repo",
+        "hygiene",
+        "books",
+        "episode",
+        "compounded"
+      ],
+      "valid_from": "2026-10-28T15:29:00.617061+00:00",
+      "valid_to": null,
+      "is_current": true,
+      "created_at": "2026-10-28T15:29:00.617061+00:00",
+      "updated_at": "2026-10-28T15:29:00.617061+00:00",
+      "metadata": {}
+    },
+    {
+      "id": "eval:clean-repo-books",
+      "type": "eval",
+      "label": "Task Evaluation clean-repo-books (R=1.00, PASS)",
+      "content": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=1.0000 (det=1.00, traj=1.00, adv=1.00, goal=1.00). Gate=PASSED.",
+      "importance": 0.85,
+      "tags": [
+        "eval",
+        "cr-task-eval-001",
+        "clean-repo-books",
+        "passed",
+        "compounded"
+      ],
+      "valid_from": "2026-10-28T15:29:04.070804+00:00",
+      "valid_to": null,
+      "is_current": true,
+      "created_at": "2026-10-28T15:29:04.070804+00:00",
+      "updated_at": "2026-10-28T15:29:04.070804+00:00",
+      "metadata": {
+        "source_files": {
+          ".hath0r/evals/latest.json": "sha256:01965334b1278cd06f783f9279a2ee1e93405c5cdb6b36b3d64a482bb709c001"
         }
       }
     },
@@ -173,26 +217,26 @@
       "id": "session:sess-20261021-200622-8468e5",
       "type": "session",
       "label": "Micro Session sess-20261021-200622-8468e5",
-      "content": "Micro Session sess-20261021-200622-8468e5 [active] | Focus: Provisioning CR-TASK-EVAL-001 for Books | Reads: 2, Writes: 5 | Entries: Compounded eval:eval-baseline-books: Task Evaluation eval-baseline-books (R=1.00, PASS)",
+      "content": "Micro Session sess-20261021-200622-8468e5 [completed] | Focus: Provisioning CR-TASK-EVAL-001 for Books | Reads: 3, Writes: 8 | Entries: Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=1.00, PASS)",
       "importance": 0.75,
       "tags": [
         "session",
         "micro-session",
-        "active"
+        "completed"
       ],
       "valid_from": "2026-10-21T20:06:22.272607+00:00",
-      "valid_to": null,
+      "valid_to": "2026-10-28T15:29:00.638631+00:00",
       "is_current": true,
       "created_at": "2026-10-21T20:06:22.272607+00:00",
-      "updated_at": "2026-10-28T14:21:16.429568+00:00",
+      "updated_at": "2026-10-28T15:29:04.081708+00:00",
       "metadata": {
         "session_id": "sess-20261021-200622-8468e5",
         "prior_session_id": null,
         "parent_session_id": null,
-        "read_count": 2,
-        "write_count": 5,
-        "status": "active",
-        "byte_size": 1788
+        "read_count": 3,
+        "write_count": 8,
+        "status": "completed",
+        "byte_size": 1901
       }
     }
   ],
@@ -354,11 +398,67 @@
       "weight": 1.0,
       "valid_from": "2026-10-28T14:21:16.432089+00:00",
       "is_current": true
+    },
+    {
+      "source": "episode:clean-repo-books",
+      "target": "concept:tri-graph",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:00.617061+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:clean-repo-books",
+      "target": "rule:cr-memory-compound-001",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:00.617061+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:clean-repo-books",
+      "target": "session:sess-20261021-200622-8468e5",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:00.630337+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "concept:tri-graph",
+      "relation": "EVALUATES",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:04.070804+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "rule:cr-memory-compound-001",
+      "relation": "EVALUATES",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:04.070804+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261021-200622-8468e5",
+      "relation": "EVALUATES",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:04.070804+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261021-200622-8468e5",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-28T15:29:04.083721+00:00",
+      "is_current": true
     }
   ],
   "schema_version": "1.0.0",
   "graph_id": "canonical-memory-space",
-  "revision": 16,
-  "content_hash": "sha256:d3aa379b79d3c0460e93de57c71e5c0912b1c6d6531809e1a50df029c8d88bac",
-  "updated_at": "2026-10-28T14:21:16.433058+00:00"
+  "revision": 25,
+  "content_hash": "sha256:0e8ca447db0e10938047a94d6531a357f10289f172ff84cfc627be633e8f7b30",
+  "updated_at": "2026-10-28T15:29:04.492216+00:00"
 }
