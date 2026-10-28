@@ -3,62 +3,51 @@
   "session_id": "sess-20261021-200622-8468e5",
   "prior_session_id": null,
   "parent_session_id": null,
-  "revision": 3,
-  "content_hash": "sha256:9b13173d70955e6faf7dfa4a6d2f2fee0b0071703cedd9ebd0d8f067e41321f3",
-  "base_graph_hash": "sha256:ff9a46dfb78cda040120904d599319a4280f0a1243fbc1b6fcebe6eb9f323d4d",
+  "revision": 6,
+  "content_hash": "sha256:15c8370b868578fdc4bf82736b9c373e2d7cda305435e261759abac5721f8cf7",
+  "base_graph_hash": "sha256:95d45d79690958bff530a7660bffdcb437d03eefc7372eb5f6e79fd166a95b35",
   "task_id": null,
   "role": null,
   "repo_name": "Books",
   "status": "active",
   "started_at": "2026-10-21T20:06:22.272607+00:00",
-  "updated_at": "2026-10-22T10:12:53.305329+00:00",
+  "updated_at": "2026-10-28T14:21:16.429568+00:00",
   "ended_at": null,
-  "read_count": 1,
-  "write_count": 3,
-  "last_read_at": "2026-10-21T20:06:22.272607+00:00",
-  "last_write_at": "2026-10-22T10:12:53.305329+00:00",
-  "active_focus": "Initialized local memory space for Books",
-  "prior_summary": "Started session focus: Initialized local",
+  "read_count": 2,
+  "write_count": 5,
+  "last_read_at": "2026-10-28T14:21:15.615116+00:00",
+  "last_write_at": "2026-10-28T14:21:16.429568+00:00",
+  "active_focus": "Provisioning CR-TASK-EVAL-001 for Books",
+  "prior_summary": "ounded episode:share-20261021T200622; Compounded episode:share-20261022T101252; Compounded rule:cr-task-eval-001: Automa",
   "recalled_nodes": [
     {
-      "id": "rule:cr-bai-001",
-      "type": "rule",
-      "label": "Promotion Path Policy",
-      "snippet": "Promotion order: local -> development -> testing -> staging -> master."
+      "id": "insight:books",
+      "type": "insight",
+      "label": "Synthesized Insight on books",
+      "snippet": "Consolidated from 2 memory nodes tagged 'books'. Recurring themes: share, knowledge, unive"
     }
   ],
   "micro_entries": [
     {
-      "timestamp": "2026-10-21T20:06:22.310308+00:00",
+      "timestamp": "2026-10-28T14:21:16.429568+00:00",
       "kind": "compound",
-      "summary": "Compounded episode:share-20261021T200622Z: Knowledge Share (share-20261021T200622Z)",
+      "summary": "Compounded eval:eval-baseline-books: Task Evaluation eval-baseline-books (R=1.00, PASS)",
       "tags": [
-        "knowledge-share",
-        "share-20261021t200622z",
-        "books",
-        "episode",
+        "eval",
+        "cr-task-eval-001",
+        "eval-baseline-books",
+        "passed",
         "compounded"
       ],
-      "node_id": "episode:share-20261021T200622Z"
-    },
-    {
-      "timestamp": "2026-10-22T10:12:53.305329+00:00",
-      "kind": "compound",
-      "summary": "Compounded episode:share-20261022T101252Z: Knowledge Share (share-20261022T101252Z)",
-      "tags": [
-        "knowledge-share",
-        "share-20261022t101252z",
-        "books",
-        "episode",
-        "compounded"
-      ],
-      "node_id": "episode:share-20261022T101252Z"
+      "node_id": "eval:eval-baseline-books"
     }
   ],
   "next_steps": [],
   "compounded_node_ids": [
     "episode:share-20261021T200622Z",
-    "episode:share-20261022T101252Z"
+    "episode:share-20261022T101252Z",
+    "rule:cr-task-eval-001",
+    "eval:eval-baseline-books"
   ],
-  "capsule_bytes": 2017
+  "capsule_bytes": 1788
 }
