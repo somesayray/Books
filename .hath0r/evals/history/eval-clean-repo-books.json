@@ -1,13 +1,13 @@
 {
   "schema_version": "hath0r.evals.scorecard/v1",
   "rule_id": "CR-TASK-EVAL-001",
-  "eval_id": "eval-20261028-181401-10913d",
+  "eval_id": "eval-20261029-141809-1a9d1b",
   "task_id": "clean-repo-books",
   "issue_number": null,
   "repo_name": "Books",
   "branch": "development",
-  "evaluated_at": "2026-10-28T18:14:01.514427+00:00",
-  "duration_ms": 477.2,
+  "evaluated_at": "2026-10-29T14:18:09.863300+00:00",
+  "duration_ms": 671.82,
   "passed_gate": true,
   "r_task": 1.0,
   "min_reward_threshold": 0.8,
@@ -64,13 +64,13 @@
       "estimated_usd": 0.0,
       "max_usd": 0.25,
       "session_id": "sess-20261021-200622-8468e5",
-      "session_reads": 6,
-      "session_writes": 12,
-      "session_bytes": 1881,
+      "session_reads": 9,
+      "session_writes": 19,
+      "session_bytes": 1755,
       "within_capsule_budget": true,
-      "latency_ms": 114.04,
-      "taguchi_quality_loss": 0.0002,
-      "snr_db": 24.88
+      "latency_ms": 192.4,
+      "taguchi_quality_loss": 0.0005,
+      "snr_db": 20.34
     },
     "adversarial": {
       "score": 1.0,
@@ -92,9 +92,31 @@
       "consensus_score": 1.0
     }
   },
+  "evidence_trust_report": {
+    "schema": "hath0r.security.evidence_trust_report/1",
+    "tiers": {
+      "VERIFIED_EXECUTION": [
+        ".hath0r/evals/latest.json"
+      ],
+      "STATIC_AST_ANALYSIS": [
+        ".hath0r/agentgraph/snapshot.json",
+        ".hath0r/memory/graph.json",
+        ".hath0r/memory/hashes.json",
+        ".hath0r/memory/sessions/current.json",
+        ".hath0r/memory/sessions/latest.json",
+        ".hath0r/memory/sessions/sess-20261021-200622-8468e5.json"
+      ],
+      "UNVERIFIED_FILE_PRESENCE": []
+    },
+    "counts": {
+      "VERIFIED_EXECUTION": 1,
+      "STATIC_AST_ANALYSIS": 6,
+      "UNVERIFIED_FILE_PRESENCE": 0
+    }
+  },
   "blocking_reasons": [],
   "observability_sync": {
     "mode": "pending"
   },
-  "content_hash": "sha256:84775ebe35b827881d985c476d6828ed561216700c79e029a52e922edde49ce8"
+  "content_hash": "sha256:caedde5027da84c38a1b8e080e01a3b7bb52535769722eaefcae4f733f92ca07"
 }

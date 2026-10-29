@@ -166,28 +166,28 @@
       "updated_at": "2026-10-29T13:58:57.466711+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:f1641622853680ff943d258c58adc54eff507c2838a263322004399625909088"
+          ".hath0r/evals/latest.json": "sha256:6299e9a1c24c45e33ce95a8b062df7b3e1eadf025780d5696b5810c6582423f9"
         }
       }
     },
     {
       "id": "episode:clean-repo-books",
       "type": "episode",
-      "label": "Clean Repo Development Sync (Books)",
-      "content": "Verified all changes merged into development and synced for Books.",
-      "importance": 0.8,
+      "label": "Clean Repo Lifecycle (Books)",
+      "content": "Executed 13-step clean-repo hygiene, branch merges, and knowledge sync for Books.",
+      "importance": 0.75,
       "tags": [
         "clean-repo",
-        "development",
+        "hygiene",
         "books",
         "episode",
         "compounded"
       ],
-      "valid_from": "2026-10-28T18:14:00.708600+00:00",
+      "valid_from": "2026-10-29T14:18:05.270486+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:00.617061+00:00",
-      "updated_at": "2026-10-28T18:14:00.708600+00:00",
+      "updated_at": "2026-10-29T14:18:05.270486+00:00",
       "metadata": {}
     },
     {
@@ -203,14 +203,14 @@
         "passed",
         "compounded"
       ],
-      "valid_from": "2026-10-28T18:14:01.946220+00:00",
+      "valid_from": "2026-10-29T14:18:10.675652+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:04.070804+00:00",
-      "updated_at": "2026-10-28T18:14:01.946220+00:00",
+      "updated_at": "2026-10-29T14:18:10.675652+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:f1641622853680ff943d258c58adc54eff507c2838a263322004399625909088"
+          ".hath0r/evals/latest.json": "sha256:6299e9a1c24c45e33ce95a8b062df7b3e1eadf025780d5696b5810c6582423f9"
         }
       }
     },
@@ -218,7 +218,7 @@
       "id": "session:sess-20261021-200622-8468e5",
       "type": "session",
       "label": "Micro Session sess-20261021-200622-8468e5",
-      "content": "Micro Session sess-20261021-200622-8468e5 [completed] | Focus: Provisioning CR-TASK-EVAL-001 for Books | Reads: 8, Writes: 17 | Entries: Compounded eval:eval-baseline-books: Task Evaluation eval-baseline-books (R=1.00, PASS)",
+      "content": "Micro Session sess-20261021-200622-8468e5 [completed] | Focus: Provisioning CR-TASK-EVAL-001 for Books | Reads: 9, Writes: 20 | Entries: Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=1.00, PASS)",
       "importance": 0.75,
       "tags": [
         "session",
@@ -226,18 +226,18 @@
         "completed"
       ],
       "valid_from": "2026-10-21T20:06:22.272607+00:00",
-      "valid_to": "2026-10-28T15:29:00.638631+00:00",
+      "valid_to": "2026-10-29T14:18:05.290046+00:00",
       "is_current": true,
       "created_at": "2026-10-21T20:06:22.272607+00:00",
-      "updated_at": "2026-10-29T13:58:57.479620+00:00",
+      "updated_at": "2026-10-29T14:18:10.701238+00:00",
       "metadata": {
         "session_id": "sess-20261021-200622-8468e5",
         "prior_session_id": null,
         "parent_session_id": null,
-        "read_count": 8,
-        "write_count": 17,
+        "read_count": 9,
+        "write_count": 20,
         "status": "completed",
-        "byte_size": 1914
+        "byte_size": 1902
       }
     }
   ],
@@ -459,7 +459,7 @@
   ],
   "schema_version": "1.0.0",
   "graph_id": "canonical-memory-space",
-  "revision": 65,
-  "content_hash": "sha256:24a14076e64415a68e5992ce58916d286112c1d0ffc90141a60d8facf752c164",
-  "updated_at": "2026-10-29T13:58:57.874360+00:00"
+  "revision": 74,
+  "content_hash": "sha256:bd497798f132e87853382509ef472617df5da8fef4b355d6b6585b22bc6dcd44",
+  "updated_at": "2026-10-29T14:18:11.303839+00:00"
 }
