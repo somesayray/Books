@@ -3,43 +3,43 @@
   "session_id": "sess-20261021-200622-8468e5",
   "prior_session_id": null,
   "parent_session_id": null,
-  "revision": 18,
-  "content_hash": "sha256:dbade15b0fd573b7e63dde339f1be893db902e36e7d3403efff700411fa1aa69",
-  "base_graph_hash": "sha256:b0fe06c47dada1a626399cf938ec5bb1548a4108751b18dff56ebdd02fa5abb6",
+  "revision": 24,
+  "content_hash": "sha256:b3a9825cb830ec2d29ac3266e3da476ee820c5d7e1054ee22bd42cc1cac6267f",
+  "base_graph_hash": "sha256:3f43c8cbb3e68b552bf120eb895021a176a4c6cc36e60bb9ddf57ed0ead1722d",
   "task_id": null,
   "role": null,
   "repo_name": "Books",
   "status": "completed",
   "started_at": "2026-10-21T20:06:22.272607+00:00",
-  "updated_at": "2026-10-28T18:14:01.975992+00:00",
+  "updated_at": "2026-10-29T13:58:57.479620+00:00",
   "ended_at": "2026-10-28T15:29:00.638631+00:00",
-  "read_count": 6,
-  "write_count": 13,
-  "last_read_at": "2026-10-28T18:14:00.691236+00:00",
-  "last_write_at": "2026-10-28T18:14:01.975992+00:00",
+  "read_count": 8,
+  "write_count": 17,
+  "last_read_at": "2026-10-29T13:58:56.603363+00:00",
+  "last_write_at": "2026-10-29T13:58:57.479620+00:00",
   "active_focus": "Provisioning CR-TASK-EVAL-001 for Books",
-  "prior_summary": "ounded rule:cr-task-eval-001: Automa; Compounded eval:eval-baseline-books: Tas; Compounded episode:clean-repo-books: Cle",
+  "prior_summary": "ounded rule:cr-task-eval-001: Automa; Compounded eval:eval-baseline-books: Tas; Compounded rule:cr-task-eval-001: Automa",
   "recalled_nodes": [
     {
-      "id": "eval:clean-repo-books",
+      "id": "eval:eval-baseline-books",
       "type": "eval",
-      "label": "Task Evaluation clean-repo-books (R=1.00, PASS)",
-      "snippet": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=1.0000 (det=1.00"
+      "label": "Task Evaluation eval-baseline-books (R=1.00, PASS)",
+      "snippet": "4-Tier Task Evaluation for eval-baseline-books on branch development: R_task=1.0000 (det=1"
     }
   ],
   "micro_entries": [
     {
-      "timestamp": "2026-10-28T18:14:01.975992+00:00",
+      "timestamp": "2026-10-29T13:58:57.479620+00:00",
       "kind": "compound",
-      "summary": "Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=1.00, PASS)",
+      "summary": "Compounded eval:eval-baseline-books: Task Evaluation eval-baseline-books (R=1.00, PASS)",
       "tags": [
         "eval",
         "cr-task-eval-001",
-        "clean-repo-books",
+        "eval-baseline-books",
         "passed",
         "compounded"
       ],
-      "node_id": "eval:clean-repo-books"
+      "node_id": "eval:eval-baseline-books"
     }
   ],
   "next_steps": [],
@@ -51,5 +51,5 @@
     "episode:clean-repo-books",
     "eval:clean-repo-books"
   ],
-  "capsule_bytes": 1896
+  "capsule_bytes": 1914
 }
