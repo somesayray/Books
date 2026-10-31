@@ -166,7 +166,7 @@
       "updated_at": "2026-10-29T13:58:57.466711+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:6299e9a1c24c45e33ce95a8b062df7b3e1eadf025780d5696b5810c6582423f9"
+          ".hath0r/evals/latest.json": "sha256:e5aaefc5903f7273371f4ee8b02ee3c4dc53107a71acf876850ccfe202b60b2d"
         }
       }
     },
@@ -183,18 +183,18 @@
         "episode",
         "compounded"
       ],
-      "valid_from": "2026-10-29T14:18:05.270486+00:00",
+      "valid_from": "2026-10-31T16:13:09.090295+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:00.617061+00:00",
-      "updated_at": "2026-10-29T14:18:05.270486+00:00",
+      "updated_at": "2026-10-31T16:13:09.090295+00:00",
       "metadata": {}
     },
     {
       "id": "eval:clean-repo-books",
       "type": "eval",
-      "label": "Task Evaluation clean-repo-books (R=1.00, PASS)",
-      "content": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=1.0000 (det=1.00, traj=1.00, adv=1.00, goal=1.00). Gate=PASSED.",
+      "label": "Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "content": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=0.9471 (det=0.94, traj=0.93, adv=0.98, goal=0.93). Gate=PASSED.",
       "importance": 0.85,
       "tags": [
         "eval",
@@ -203,14 +203,14 @@
         "passed",
         "compounded"
       ],
-      "valid_from": "2026-10-29T14:18:10.675652+00:00",
+      "valid_from": "2026-10-31T16:13:13.149978+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:04.070804+00:00",
-      "updated_at": "2026-10-29T14:18:10.675652+00:00",
+      "updated_at": "2026-10-31T16:13:13.149978+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:6299e9a1c24c45e33ce95a8b062df7b3e1eadf025780d5696b5810c6582423f9"
+          ".hath0r/evals/latest.json": "sha256:e5aaefc5903f7273371f4ee8b02ee3c4dc53107a71acf876850ccfe202b60b2d"
         }
       }
     },
@@ -238,6 +238,32 @@
         "write_count": 20,
         "status": "completed",
         "byte_size": 1902
+      }
+    },
+    {
+      "id": "session:sess-20261031-161309-50d4e1",
+      "type": "session",
+      "label": "Micro Session sess-20261031-161309-50d4e1",
+      "content": "Micro Session sess-20261031-161309-50d4e1 [completed] | Focus: clean-repo-Books | Reads: 2, Writes: 4 | Entries: Clean Repo Lifecycle completed for Books.; Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "importance": 0.75,
+      "tags": [
+        "session",
+        "micro-session",
+        "completed"
+      ],
+      "valid_from": "2026-10-31T16:13:09.062926+00:00",
+      "valid_to": "2026-10-31T16:13:09.114460+00:00",
+      "is_current": true,
+      "created_at": "2026-10-31T16:13:09.062926+00:00",
+      "updated_at": "2026-10-31T16:13:13.160903+00:00",
+      "metadata": {
+        "session_id": "sess-20261031-161309-50d4e1",
+        "prior_session_id": "sess-20261021-200622-8468e5",
+        "parent_session_id": "sess-20261021-200622-8468e5",
+        "read_count": 2,
+        "write_count": 4,
+        "status": "completed",
+        "byte_size": 2010
       }
     }
   ],
@@ -455,11 +481,51 @@
       "weight": 1.0,
       "valid_from": "2026-10-28T15:29:04.083721+00:00",
       "is_current": true
+    },
+    {
+      "source": "session:sess-20261021-200622-8468e5",
+      "target": "session:sess-20261031-161309-50d4e1",
+      "relation": "PRECEDES",
+      "weight": 1.0,
+      "valid_from": "2026-10-31T16:13:09.069935+00:00",
+      "is_current": true
+    },
+    {
+      "source": "session:sess-20261031-161309-50d4e1",
+      "target": "concept:tri-graph",
+      "relation": "RELATES_TO",
+      "weight": 0.8,
+      "valid_from": "2026-10-31T16:13:09.069935+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:clean-repo-books",
+      "target": "session:sess-20261031-161309-50d4e1",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-31T16:13:09.105177+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261031-161309-50d4e1",
+      "relation": "EVALUATES",
+      "weight": 1.0,
+      "valid_from": "2026-10-31T16:13:13.149978+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261031-161309-50d4e1",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-10-31T16:13:13.162840+00:00",
+      "is_current": true
     }
   ],
   "schema_version": "1.0.0",
   "graph_id": "canonical-memory-space",
-  "revision": 74,
-  "content_hash": "sha256:bd497798f132e87853382509ef472617df5da8fef4b355d6b6585b22bc6dcd44",
-  "updated_at": "2026-10-29T14:18:11.303839+00:00"
+  "revision": 84,
+  "content_hash": "sha256:d4604fcf05579c25da6fd3a42f80dca3b9a7c9547ccc52ef14a105b887a36e4d",
+  "updated_at": "2026-10-31T16:13:13.521435+00:00"
 }

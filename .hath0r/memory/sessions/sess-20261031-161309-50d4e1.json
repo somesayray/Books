@@ -1,0 +1,60 @@
+{
+  "schema_version": "hath0r.micro_session/1",
+  "session_id": "sess-20261031-161309-50d4e1",
+  "prior_session_id": "sess-20261021-200622-8468e5",
+  "parent_session_id": "sess-20261021-200622-8468e5",
+  "revision": 5,
+  "content_hash": "sha256:a4f08aa230232ec4bb18a849a010cb7cf3cfcf195e6cb97155f7c75d0ad95674",
+  "base_graph_hash": "sha256:a79bdd5efbbf88c9e62dbaf3b9e07b31c678f3ccfa66fa4c3562a70cf463dba4",
+  "task_id": null,
+  "role": null,
+  "repo_name": "Books",
+  "status": "completed",
+  "started_at": "2026-10-31T16:13:09.062926+00:00",
+  "updated_at": "2026-10-31T16:13:13.160903+00:00",
+  "ended_at": "2026-10-31T16:13:09.114460+00:00",
+  "read_count": 2,
+  "write_count": 4,
+  "last_read_at": "2026-10-31T16:13:09.080508+00:00",
+  "last_write_at": "2026-10-31T16:13:13.160903+00:00",
+  "active_focus": "clean-repo-Books",
+  "prior_summary": "ation clean-repo-books (R=1.00, PASS); Started session focus: clean-repo-Books; Compounded episode:clean-repo-books: Cle",
+  "recalled_nodes": [
+    {
+      "id": "eval:clean-repo-books",
+      "type": "eval",
+      "label": "Task Evaluation clean-repo-books (R=1.00, PASS)",
+      "snippet": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=1.0000 (det=1.00"
+    }
+  ],
+  "micro_entries": [
+    {
+      "timestamp": "2026-10-31T16:13:09.114460+00:00",
+      "kind": "milestone",
+      "summary": "Clean Repo Lifecycle completed for Books.",
+      "tags": [
+        "session-end"
+      ],
+      "node_id": null
+    },
+    {
+      "timestamp": "2026-10-31T16:13:13.160903+00:00",
+      "kind": "compound",
+      "summary": "Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "tags": [
+        "eval",
+        "cr-task-eval-001",
+        "clean-repo-books",
+        "passed",
+        "compounded"
+      ],
+      "node_id": "eval:clean-repo-books"
+    }
+  ],
+  "next_steps": [],
+  "compounded_node_ids": [
+    "episode:clean-repo-books",
+    "eval:clean-repo-books"
+  ],
+  "capsule_bytes": 2010
+}

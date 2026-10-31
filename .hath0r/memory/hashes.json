@@ -1,63 +1,70 @@
 {
   "schema_version": "hath0r.memory_hashes/1",
   "repo_name": "Books",
-  "revision": 100,
-  "updated_at": "2026-10-29T14:18:11.303839+00:00",
+  "revision": 113,
+  "updated_at": "2026-10-31T16:13:13.521435+00:00",
   "files": {
     ".hath0r/memory/architecture.md": {
       "sha256": "sha256:12a7b1d97cca86bbc712fb001552c3026ac9c0b9dee34efc786ffabcf1b2f08b",
       "content_hash": "sha256:12a7b1d97cca86bbc712fb001552c3026ac9c0b9dee34efc786ffabcf1b2f08b",
       "revision": 1,
       "byte_size": 267,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     },
     ".hath0r/memory/core_rules.md": {
       "sha256": "sha256:e28f2a41463e18a1f4a0bcd8a87fc4bfb79b3246deb22006fd3f171ab07426c0",
       "content_hash": "sha256:e28f2a41463e18a1f4a0bcd8a87fc4bfb79b3246deb22006fd3f171ab07426c0",
       "revision": 3,
       "byte_size": 831,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     },
     ".hath0r/memory/graph.json": {
-      "sha256": "sha256:817f8579cf14323579f307423a4fac2b2d20e0b3ce79e780a7f0ec6ad6abb285",
-      "content_hash": "sha256:bd497798f132e87853382509ef472617df5da8fef4b355d6b6585b22bc6dcd44",
-      "revision": 74,
-      "byte_size": 15214,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "sha256": "sha256:6b5f6b831c23b8e6ec9be4fa9be1cec76888ea0d6a6db74d4024a5931b045c2e",
+      "content_hash": "sha256:d4604fcf05579c25da6fd3a42f80dca3b9a7c9547ccc52ef14a105b887a36e4d",
+      "revision": 84,
+      "byte_size": 17521,
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     },
     ".hath0r/memory/sessions/current.json": {
-      "sha256": "sha256:7acc82a043eba3eaaf29b76c9c6148cd592ea6740f885910bb9e9447bf17462e",
-      "content_hash": "sha256:4a507b60e25895eb3519163cb54f6b13eb7d3b97e3d27cce5feb533343d02ba3",
-      "revision": 28,
-      "byte_size": 1902,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "sha256": "sha256:1b8f668aef46f1ddf5db6d71c311b363dde8b64d315bacc51b9ff4a649fb7a76",
+      "content_hash": "sha256:a4f08aa230232ec4bb18a849a010cb7cf3cfcf195e6cb97155f7c75d0ad95674",
+      "revision": 33,
+      "byte_size": 2010,
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     },
     ".hath0r/memory/sessions/latest.json": {
-      "sha256": "sha256:7acc82a043eba3eaaf29b76c9c6148cd592ea6740f885910bb9e9447bf17462e",
-      "content_hash": "sha256:4a507b60e25895eb3519163cb54f6b13eb7d3b97e3d27cce5feb533343d02ba3",
-      "revision": 28,
-      "byte_size": 1902,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "sha256": "sha256:1b8f668aef46f1ddf5db6d71c311b363dde8b64d315bacc51b9ff4a649fb7a76",
+      "content_hash": "sha256:a4f08aa230232ec4bb18a849a010cb7cf3cfcf195e6cb97155f7c75d0ad95674",
+      "revision": 33,
+      "byte_size": 2010,
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     },
     ".hath0r/memory/sessions/sess-20261021-200622-8468e5.json": {
       "sha256": "sha256:7acc82a043eba3eaaf29b76c9c6148cd592ea6740f885910bb9e9447bf17462e",
       "content_hash": "sha256:4a507b60e25895eb3519163cb54f6b13eb7d3b97e3d27cce5feb533343d02ba3",
       "revision": 28,
       "byte_size": 1902,
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
+    },
+    ".hath0r/memory/sessions/sess-20261031-161309-50d4e1.json": {
+      "sha256": "sha256:1b8f668aef46f1ddf5db6d71c311b363dde8b64d315bacc51b9ff4a649fb7a76",
+      "content_hash": "sha256:a4f08aa230232ec4bb18a849a010cb7cf3cfcf195e6cb97155f7c75d0ad95674",
+      "revision": 5,
+      "byte_size": 2010,
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     }
   },
   "source_files": {
     ".hath0r/evals/latest.json": {
-      "sha256": "sha256:6299e9a1c24c45e33ce95a8b062df7b3e1eadf025780d5696b5810c6582423f9",
-      "revision": 7,
-      "byte_size": 3271,
+      "sha256": "sha256:e5aaefc5903f7273371f4ee8b02ee3c4dc53107a71acf876850ccfe202b60b2d",
+      "revision": 8,
+      "byte_size": 9745,
       "exists": true,
       "referenced_by": [
         "eval:clean-repo-books",
         "eval:eval-baseline-books"
       ],
-      "updated_at": "2026-10-29T14:18:11.303839+00:00"
+      "updated_at": "2026-10-31T16:13:13.521435+00:00"
     }
   }
 }
