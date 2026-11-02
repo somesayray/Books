@@ -3,58 +3,52 @@
   "session_id": "sess-20261031-161309-50d4e1",
   "prior_session_id": "sess-20261021-200622-8468e5",
   "parent_session_id": "sess-20261021-200622-8468e5",
-  "revision": 5,
-  "content_hash": "sha256:a4f08aa230232ec4bb18a849a010cb7cf3cfcf195e6cb97155f7c75d0ad95674",
-  "base_graph_hash": "sha256:a79bdd5efbbf88c9e62dbaf3b9e07b31c678f3ccfa66fa4c3562a70cf463dba4",
+  "revision": 10,
+  "content_hash": "sha256:abbc5a82ea17533c9bd15775cd53f9e64643fbecd0c506b6d8ccdfcf1201f8b3",
+  "base_graph_hash": "sha256:f47613ee6c780987b7300e340076713ccc2f9c345aef2024ceb8106717932448",
   "task_id": null,
   "role": null,
   "repo_name": "Books",
   "status": "completed",
   "started_at": "2026-10-31T16:13:09.062926+00:00",
-  "updated_at": "2026-10-31T16:13:13.160903+00:00",
+  "updated_at": "2026-11-02T16:43:48.511975+00:00",
   "ended_at": "2026-10-31T16:13:09.114460+00:00",
-  "read_count": 2,
-  "write_count": 4,
-  "last_read_at": "2026-10-31T16:13:09.080508+00:00",
-  "last_write_at": "2026-10-31T16:13:13.160903+00:00",
-  "active_focus": "clean-repo-Books",
-  "prior_summary": "ation clean-repo-books (R=1.00, PASS); Started session focus: clean-repo-Books; Compounded episode:clean-repo-books: Cle",
+  "read_count": 4,
+  "write_count": 7,
+  "last_read_at": "2026-11-02T16:43:48.511975+00:00",
+  "last_write_at": "2026-11-02T16:43:45.892037+00:00",
+  "active_focus": "Repository orientation verified for Books",
+  "prior_summary": "pounded eval:clean-repo-books: Task E; Compounded fact:repo-books-orientation:; Compounded rule:cr-task-eval-001: Automa",
   "recalled_nodes": [
     {
-      "id": "eval:clean-repo-books",
-      "type": "eval",
-      "label": "Task Evaluation clean-repo-books (R=1.00, PASS)",
-      "snippet": "4-Tier Task Evaluation for clean-repo-books on branch development: R_task=1.0000 (det=1.00"
+      "id": "fact:repo-books-orientation",
+      "type": "fact",
+      "label": "Books Repository Memory Orientation",
+      "snippet": "Books: **Author Text Documents & Manuscript Library** > Technical Reference: See [TECH_REA"
     }
   ],
   "micro_entries": [
     {
-      "timestamp": "2026-10-31T16:13:09.114460+00:00",
-      "kind": "milestone",
-      "summary": "Clean Repo Lifecycle completed for Books.",
-      "tags": [
-        "session-end"
-      ],
-      "node_id": null
-    },
-    {
-      "timestamp": "2026-10-31T16:13:13.160903+00:00",
+      "timestamp": "2026-11-02T16:43:45.892037+00:00",
       "kind": "compound",
-      "summary": "Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "summary": "Compounded eval:eval-baseline-books: Task Evaluation eval-baseline-books (R=0.95, PASS)",
       "tags": [
         "eval",
         "cr-task-eval-001",
-        "clean-repo-books",
+        "eval-baseline-books",
         "passed",
         "compounded"
       ],
-      "node_id": "eval:clean-repo-books"
+      "node_id": "eval:eval-baseline-books"
     }
   ],
   "next_steps": [],
   "compounded_node_ids": [
     "episode:clean-repo-books",
-    "eval:clean-repo-books"
+    "eval:clean-repo-books",
+    "fact:repo-books-orientation",
+    "rule:cr-task-eval-001",
+    "eval:eval-baseline-books"
   ],
-  "capsule_bytes": 2010
+  "capsule_bytes": 1912
 }

@@ -1,31 +1,17 @@
 {
   "version": "1.0",
-  "engine": "author-mcp",
-  "default_provider": "author-mcp",
+  "engine": "hath0r-mcp",
+  "default_provider": "hath0r-mcp",
   "group": "author",
   "default_server": "author-mcp",
-  "description": "Author MCP root knowledge server, Air Traffic Control (ATC), and tools for Author project",
+  "description": "Canonical Hath0r MCP configuration for Books (group: author)",
   "mcpServers": {
     "author-mcp": {
       "type": "streamable-http",
       "url": "http://127.0.0.1:18083/mcp",
-      "engine": "author-mcp",
+      "engine": "hath0r-mcp",
       "group": "author",
       "default": true
-    },
-    "ray-mcp": {
-      "type": "streamable-http",
-      "url": "https://mcp.raymondbayly.com/mcp",
-      "engine": "hath0r-mcp",
-      "group": "ray",
-      "default": false
-    },
-    "bai-mcp": {
-      "type": "streamable-http",
-      "url": "https://mcp.baylyai.com/mcp",
-      "engine": "hath0r-mcp",
-      "group": "bai",
-      "default": false
     },
     "hath0r-mcp": {
       "type": "streamable-http",
@@ -34,11 +20,25 @@
       "group": "hath0r-opensource",
       "default": false
     },
+    "ray-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.raymondbayly.com/mcp",
+      "engine": "hath0r-mcp",
+      "group": "ray",
+      "default": false
+    },
     "1-nation-mcp": {
       "type": "streamable-http",
       "url": "https://mcp.1-nation.com/mcp",
       "engine": "hath0r-mcp",
       "group": "1-nation",
+      "default": false
+    },
+    "bai-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.baylyai.com/mcp",
+      "engine": "hath0r-mcp",
+      "group": "bai",
       "default": false
     }
   },
@@ -46,7 +46,7 @@
     {
       "id": "author-mcp",
       "name": "AuthorMCP",
-      "engine": "author-mcp",
+      "engine": "hath0r-mcp",
       "scope": "project",
       "group": "author",
       "priority": 1,
@@ -56,10 +56,28 @@
       "mcp_endpoint": "/mcp",
       "health_endpoint": "/health",
       "ready_endpoint": "/ready",
-      "description": "Author MCP root knowledge server and suite Air Traffic Control (ATC)",
+      "description": "Author MCP root knowledge server, Air Traffic Control (ATC), and tools for Author project",
       "enabled": true,
       "local_path": "/Users/raybayly/Development/Projects/Author/mcp",
       "github": "somesayray/author-mcp"
+    },
+    {
+      "id": "hath0r-mcp",
+      "name": "Hath0rMCP",
+      "engine": "hath0r-mcp",
+      "scope": "group",
+      "group": "hath0r-opensource",
+      "priority": 2,
+      "product_id": "hath0r-mcp",
+      "transport": "streamable-http",
+      "base_url": "https://mcp.hath0r-cli.com",
+      "mcp_endpoint": "/mcp",
+      "health_endpoint": "/health",
+      "ready_endpoint": "/ready",
+      "description": "Hath0r OpenSource Suite MCP knowledge server and tools (Project MCP)",
+      "enabled": true,
+      "local_path": "/Users/raybayly/Development/OpenSource/hath0r-mcp",
+      "github": "Bayly-AI/HATH0R-MCP"
     },
     {
       "id": "ray-mcp",
@@ -67,7 +85,7 @@
       "engine": "hath0r-mcp",
       "scope": "group",
       "group": "ray",
-      "priority": 2,
+      "priority": 4,
       "product_id": "ray-mcp",
       "transport": "streamable-http",
       "base_url": "https://mcp.raymondbayly.com",
@@ -78,42 +96,6 @@
       "enabled": true,
       "local_path": "/Users/raybayly/Development/Ray/mcp",
       "github": "Bayly-AI/RAY-MCP"
-    },
-    {
-      "id": "bai-mcp",
-      "name": "BaylyAIMCP",
-      "engine": "hath0r-mcp",
-      "scope": "org",
-      "group": "bai",
-      "priority": 3,
-      "product_id": "bai-mcp",
-      "transport": "streamable-http",
-      "base_url": "https://mcp.baylyai.com",
-      "mcp_endpoint": "/mcp",
-      "health_endpoint": "/health",
-      "ready_endpoint": "/ready",
-      "description": "Bayly AI Enterprise Hath0r MCP knowledgebase and runbook engine",
-      "enabled": true,
-      "local_path": "/Users/raybayly/Development/BAI/MCP",
-      "github": "Bayly-AI/BAI-MCP"
-    },
-    {
-      "id": "hath0r-mcp",
-      "name": "Hath0rMCP",
-      "engine": "hath0r-mcp",
-      "scope": "framework",
-      "group": "hath0r-opensource",
-      "priority": 4,
-      "product_id": "hath0r-mcp",
-      "transport": "streamable-http",
-      "base_url": "https://mcp.hath0r-cli.com",
-      "mcp_endpoint": "/mcp",
-      "health_endpoint": "/health",
-      "ready_endpoint": "/ready",
-      "description": "Hath0r OpenSource Suite MCP knowledge server and tools",
-      "enabled": true,
-      "local_path": "/Users/raybayly/Development/OpenSource/hath0r-mcp",
-      "github": "Bayly-AI/HATH0R-MCP"
     },
     {
       "id": "1-nation-mcp",
@@ -132,6 +114,24 @@
       "enabled": true,
       "local_path": "/Users/raybayly/Development/1-Nation/MCP",
       "github": "Bayly-AI/1-Nation-MCP"
+    },
+    {
+      "id": "bai-mcp",
+      "name": "BaylyAIMCP",
+      "engine": "hath0r-mcp",
+      "scope": "org",
+      "group": "bai",
+      "priority": 3,
+      "product_id": "bai-mcp",
+      "transport": "streamable-http",
+      "base_url": "https://mcp.baylyai.com",
+      "mcp_endpoint": "/mcp",
+      "health_endpoint": "/health",
+      "ready_endpoint": "/ready",
+      "description": "Bayly AI Enterprise Hath0r MCP knowledgebase and runbook engine",
+      "enabled": true,
+      "local_path": "/Users/raybayly/Development/BAI/MCP",
+      "github": "Bayly-AI/BAI-MCP"
     }
   ]
 }
