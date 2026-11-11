@@ -46,3 +46,11 @@ Thumbs.db
 
 !.hath0r/evals/
 !.hath0r/evals/**
+!.hath0r/spc/
+!.hath0r/spc/**
+!.hath0r/fmea/
+!.hath0r/fmea/**
+!.hath0r/rca/
+!.hath0r/rca/**
+!.hath0r/dmaic/
+!.hath0r/dmaic/**
