@@ -166,7 +166,7 @@
       "updated_at": "2026-11-02T16:43:45.793387+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:ff3afc082c350f6137eb6c7b69779c6e7853dff41777bae6d1574c085c50713d"
+          ".hath0r/evals/latest.json": "sha256:438fa56008b0fa8b31e890fc9a2ecd8a6bed11731a2df1555a606d18aa913a95"
         }
       }
     },
@@ -183,11 +183,11 @@
         "episode",
         "compounded"
       ],
-      "valid_from": "2026-10-31T16:13:09.090295+00:00",
+      "valid_from": "2026-11-07T18:23:45.645117+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:00.617061+00:00",
-      "updated_at": "2026-10-31T16:13:09.090295+00:00",
+      "updated_at": "2026-11-07T18:23:45.645117+00:00",
       "metadata": {}
     },
     {
@@ -203,14 +203,14 @@
         "passed",
         "compounded"
       ],
-      "valid_from": "2026-10-31T16:13:13.149978+00:00",
+      "valid_from": "2026-11-07T18:23:49.787374+00:00",
       "valid_to": null,
       "is_current": true,
       "created_at": "2026-10-28T15:29:04.070804+00:00",
-      "updated_at": "2026-10-31T16:13:13.149978+00:00",
+      "updated_at": "2026-11-07T18:23:49.787374+00:00",
       "metadata": {
         "source_files": {
-          ".hath0r/evals/latest.json": "sha256:ff3afc082c350f6137eb6c7b69779c6e7853dff41777bae6d1574c085c50713d"
+          ".hath0r/evals/latest.json": "sha256:438fa56008b0fa8b31e890fc9a2ecd8a6bed11731a2df1555a606d18aa913a95"
         }
       }
     },
@@ -285,6 +285,32 @@
         "write_count": 7,
         "status": "completed",
         "byte_size": 1912
+      }
+    },
+    {
+      "id": "session:sess-20261107-182345-615d8d",
+      "type": "session",
+      "label": "Micro Session sess-20261107-182345-615d8d",
+      "content": "Micro Session sess-20261107-182345-615d8d [completed] | Focus: clean-repo-Books | Reads: 2, Writes: 4 | Entries: Clean Repo Lifecycle completed for Books.; Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "importance": 0.75,
+      "tags": [
+        "session",
+        "micro-session",
+        "completed"
+      ],
+      "valid_from": "2026-11-07T18:23:45.613820+00:00",
+      "valid_to": "2026-11-07T18:23:45.671410+00:00",
+      "is_current": true,
+      "created_at": "2026-11-07T18:23:45.613820+00:00",
+      "updated_at": "2026-11-07T18:23:49.800997+00:00",
+      "metadata": {
+        "session_id": "sess-20261107-182345-615d8d",
+        "prior_session_id": "sess-20261031-161309-50d4e1",
+        "parent_session_id": "sess-20261031-161309-50d4e1",
+        "read_count": 2,
+        "write_count": 4,
+        "status": "completed",
+        "byte_size": 2016
       }
     }
   ],
@@ -590,11 +616,51 @@
       "weight": 1.0,
       "valid_from": "2026-11-02T16:43:45.909638+00:00",
       "is_current": true
+    },
+    {
+      "source": "session:sess-20261031-161309-50d4e1",
+      "target": "session:sess-20261107-182345-615d8d",
+      "relation": "PRECEDES",
+      "weight": 1.0,
+      "valid_from": "2026-11-07T18:23:45.623666+00:00",
+      "is_current": true
+    },
+    {
+      "source": "session:sess-20261107-182345-615d8d",
+      "target": "concept:tri-graph",
+      "relation": "RELATES_TO",
+      "weight": 0.8,
+      "valid_from": "2026-11-07T18:23:45.623666+00:00",
+      "is_current": true
+    },
+    {
+      "source": "episode:clean-repo-books",
+      "target": "session:sess-20261107-182345-615d8d",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-11-07T18:23:45.661376+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261107-182345-615d8d",
+      "relation": "EVALUATES",
+      "weight": 1.0,
+      "valid_from": "2026-11-07T18:23:49.787374+00:00",
+      "is_current": true
+    },
+    {
+      "source": "eval:clean-repo-books",
+      "target": "session:sess-20261107-182345-615d8d",
+      "relation": "DERIVES_FROM",
+      "weight": 1.0,
+      "valid_from": "2026-11-07T18:23:49.803010+00:00",
+      "is_current": true
     }
   ],
   "schema_version": "1.0.0",
   "graph_id": "canonical-memory-space",
-  "revision": 97,
-  "content_hash": "sha256:d7c4c95519826db5a31a5ebfe61f89093b4e78e0174f25f271e0a0ec1c8cec5b",
-  "updated_at": "2026-11-02T16:43:48.552192+00:00"
+  "revision": 107,
+  "content_hash": "sha256:049d0291adebbc5fd5c4d74c1e4967e8e2988e8581ee9a5b35d6952dbe1cdf07",
+  "updated_at": "2026-11-07T18:23:50.185406+00:00"
 }

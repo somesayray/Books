@@ -1,0 +1,60 @@
+{
+  "schema_version": "hath0r.micro_session/1",
+  "session_id": "sess-20261107-182345-615d8d",
+  "prior_session_id": "sess-20261031-161309-50d4e1",
+  "parent_session_id": "sess-20261031-161309-50d4e1",
+  "revision": 5,
+  "content_hash": "sha256:55cbd3051e369550ba44b87cc7eb895a4e9414dd5a833da18eb71de344567092",
+  "base_graph_hash": "sha256:6f1e71f701ab6f0eb1c59c81ff6d2285627df4391326cdcf092c8f5e52eea72a",
+  "task_id": null,
+  "role": null,
+  "repo_name": "Books",
+  "status": "completed",
+  "started_at": "2026-11-07T18:23:45.613820+00:00",
+  "updated_at": "2026-11-07T18:23:49.800997+00:00",
+  "ended_at": "2026-11-07T18:23:45.671410+00:00",
+  "read_count": 2,
+  "write_count": 4,
+  "last_read_at": "2026-11-07T18:23:45.634414+00:00",
+  "last_write_at": "2026-11-07T18:23:49.800997+00:00",
+  "active_focus": "clean-repo-Books",
+  "prior_summary": "on eval-baseline-books (R=0.95, PASS); Started session focus: clean-repo-Books; Compounded episode:clean-repo-books: Cle",
+  "recalled_nodes": [
+    {
+      "id": "eval:eval-baseline-books",
+      "type": "eval",
+      "label": "Task Evaluation eval-baseline-books (R=0.95, PASS)",
+      "snippet": "4-Tier Task Evaluation for eval-baseline-books on branch development: R_task=0.9465 (det=0"
+    }
+  ],
+  "micro_entries": [
+    {
+      "timestamp": "2026-11-07T18:23:45.671410+00:00",
+      "kind": "milestone",
+      "summary": "Clean Repo Lifecycle completed for Books.",
+      "tags": [
+        "session-end"
+      ],
+      "node_id": null
+    },
+    {
+      "timestamp": "2026-11-07T18:23:49.800997+00:00",
+      "kind": "compound",
+      "summary": "Compounded eval:clean-repo-books: Task Evaluation clean-repo-books (R=0.95, PASS)",
+      "tags": [
+        "eval",
+        "cr-task-eval-001",
+        "clean-repo-books",
+        "passed",
+        "compounded"
+      ],
+      "node_id": "eval:clean-repo-books"
+    }
+  ],
+  "next_steps": [],
+  "compounded_node_ids": [
+    "episode:clean-repo-books",
+    "eval:clean-repo-books"
+  ],
+  "capsule_bytes": 2016
+}
