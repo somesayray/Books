@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.1] - 2026-11-11
 
+### Added
+- **`CR-CONTEXT-SQUEEZE-001` (Compress Context with SuperSqueeze — CANONICAL)** in `AGENTS.md`: agents compress bulky context through SuperSqueeze (`hath0r squeeze` / `SuperSqueezeBot`) before it enters a context window or prompt.
+
 ### Fixed
 - `.gitignore`: un-ignore the Hath0r 1.25 QA folders `.hath0r/spc/`, `.hath0r/fmea/`, `.hath0r/rca/`
   and `.hath0r/dmaic/` so their records are tracked; existing negations kept (#8).
